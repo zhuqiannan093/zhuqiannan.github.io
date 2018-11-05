@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lantao Yu"
+title                    : "Jian Li"
 title_separator          : "-"
-name                     : &name "Lantao Yu"
-description              : &description "PhD student, Computer Science Department, Stanford University"
-url                      : https://lantaoyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jian Li"
+description              : &description "PhD student, Institute of Information Engineering, Chinese Academy of Sciences"
+url                      : https://superlj666.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "LantaoYu/lantaoyu.github.io"
+repository               : "superlj666/superlj666.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,21 +77,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lantao Yu"
+  name             : "Jian Li"
   avatar           : "lantaoyu.jpg"
-  bio              : "PhD student, Computer Science Department, Stanford University"
-  location         : "Stanford, California"
+  bio              : "PhD student, Institute of Information Engineering, Chinese Academy of Sciences"
+  location         : "Beijing, China"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en"
-  email            : "lantaoyu@hotmail.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=IAJpTqYAAAAJ"
+  email            : "me@lijian.ac.cn"
   uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : 
+  facebook         : "https://www.facebook.com/profile.php?id=100008003527316"
   foursquare       :
-  github           : "LantaoYu"
+  github           : "superlj666"
   google_plus      :
   keybase          :
   instagram        : 
@@ -105,9 +105,9 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  weibo            :
+  weibo            : "https://weibo.com/u/2200292887"
   xing             :
-  youtube          :
+  youtube          : 
   wikipedia        : 
 
 
@@ -248,7 +248,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
