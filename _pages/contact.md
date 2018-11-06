@@ -4,7 +4,8 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Computer Science Department, Stanford University<br>
-Gates 158, 353 Serra Mall, Stanford, CA 94305<br>
-Email: lantaoyu [at] cs.stanford.edu
+Institute of Information Engineering, Chinese Academy of Sciences<br>
+89-A, Minzhuang Rd, Haidian District,
+Beijing, 100093, China<br>
+Email: me [at] lijian.ac.cn, lijian9026 [at] iie.ac.cn
 

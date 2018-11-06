@@ -1,17 +1,17 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=IAJpTqYAAAAJ&hl=zh-CN)"
 permalink: /publications/
 author_profile: true
 ---
 
-## Deep Learning
+## Publications
 
-<b>[CoT: Cooperative Training for Generative Modeling of Discrete Data](http://lantaoyu.com/publications/CoT)</b> <br>
-Sidi Lu, <b>Lantao Yu</b>, Siyuan Feng, Yaoming Zhu, Weinan Zhang, Yong Yu. <i>In submission to ICLR 2019.</i>
+<b>[Efficient kernel selection via spectral analysis](http://superlj666.github.io/publications/sm)</b> <br>
+<b>Jian Li<b>, Yong Liu*, Hailun Lin, Yinliang Yue, Weiping Wang. <i>The Tweenty-Sixth International Joint Conference on Artificial Intelligence.</i> <b>IJCAI 2017</b>.
 
-<b>[Understanding the Effectiveness of Lipschitz-Continuity in Generative Adversarial Nets](http://lantaoyu.com/publications/GanGradient)</b> <br>
-Zhiming Zhou, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Zhihua Zhang, Weinan Zhang, Yong Yu. <i>In submission to ICLR 2019.</i>
-
+<b>[Multi-Class Learning: From Theory to Algorithm](http://superlj666.github.io/publications/mc)</b> <br>
+<b>Jian Li<b>, Yong Liu*, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. <i>Thirty-second Conference on Neural Information Processing Systems.</i> <b>NIPS 2018</b>.
+<!-- 
 <b>[SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](http://lantaoyu.com/publications/SeqGAN)</b> <br>
 <b>Lantao Yu</b>, Weinan Zhang, Jun Wang, and Yong Yu. <i>The 31st AAAI conference on Artificial Intelligence</i>. <b>AAAI 2017</b>.
 
@@ -33,4 +33,4 @@ Yufei Wang, Zheyuan Ryan Shi, <b>Lantao Yu</b>, Yi Wu, Rohit Singh, Lucas Joppa,
 Swaminathan Gurumurthy, <b>Lantao Yu</b>, Chenyan Zhang, Yongchao Jin, Weiping Li, Xiaodong Zhang, Fei Fang. <i>ACM SIGCAS Conference on Computing and Sustainable Societies.</i> <b>COMPASS 2018</b>.
 
 <b>[Deep Reinforcement Learning for Green Security Game with Online Information](http://lantaoyu.com/publications/RLSG)</b><br>
-<b>Lantao Yu</b>, Yi Wu, Rohit Singh, Lucas Joppa and Fei Fang. <i>AAAI-18 Artificial Intelligence for Imperfect-Information Games Workshop.</i>
+<b>Lantao Yu</b>, Yi Wu, Rohit Singh, Lucas Joppa and Fei Fang. <i>AAAI-18 Artificial Intelligence for Imperfect-Information Games Workshop.</i> -->
