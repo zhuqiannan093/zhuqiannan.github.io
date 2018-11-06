@@ -14,7 +14,7 @@ redirect_from:
 
 * I am a Ph.D student in the [Information of Institute Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/), working with [Yong Liu](https://scholar.google.com/citations?user=vVhmzbAAAAAJ&hl=zh-CN) who is my research tutor. And My doctoral advisor is [Prof. Weiping Wang](https://scholar.google.com/citations?user=dAJ23QEAAAAJ&hl=zh-CN).
 * I received my Bachelor's Degree in [Northeastern University](http://en.sjtu.edu.cn/) in Shenyang, China, where I am a member of 2011 International class (English) in Software College.
-* My research interests lie in the general area of machine learning, particularly in large scale machine learning, kernel selection, and graph-based semi-supervised learning. In face, my works focus on generalization analysis and design of effective and scalable algorithms for those research interests.
+* My research interests lie in the general area of machine learning, particularly in large scale machine learning, kernel selection, and graph-based semi-supervised learning. In fact, my works focus on generalization analysis and design of effective and scalable algorithms for those research interests.
 
 
 # Recent News
