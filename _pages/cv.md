@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Jian Li (??)"
+title: "Jian Li's Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
