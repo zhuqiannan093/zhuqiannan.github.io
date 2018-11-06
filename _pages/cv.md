@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- [Click to View My Up-to-date Curriculum Vitae [PDF]](http://lantaoyu.github.io/files/lantaoyu_cv.pdf) -->
-
-<!-- <embed src="http://lantaoyu.com/files/lantaoyu_cv.pdf" width="650" height="1800" type='application/pdf'> -->
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://superlj666.github.io/files/lijian_cv.pdf)
