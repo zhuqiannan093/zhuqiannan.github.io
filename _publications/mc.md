@@ -1,7 +1,7 @@
 ---
 title: "Multi-Class Learning: From Theory to Algorithm"
 collection: publications
-permalink: /publications/sm
+permalink: /publications/mc
 venue: "Thirty-second Conference on Neural Information Processing Systems (NIPS 2018)"
 date: 2018-12-2
 citation: '<b>Jian Li<b>, Yong Liu*, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. <i>Thirty-second Conference on Neural Information Processing Systems.</i> <b>NIPS 2018</b>.'
