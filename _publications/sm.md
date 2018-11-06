@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/sm
 venue: "In Procedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI 2017)"
 date: 2017-8-19
-citation: '<b>Jian Li</b>, Yong Liu*, Hailun Lin, Yinliang Yue, Weiping Wang. <i>In Procedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI 2017) </i>.'
+citation: '<b>Jian Li</b>, Yong Liu, Hailun Lin, Yinliang Yue, Weiping Wang. <i>In Procedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI 2017) </i>.'
 ---
 [[PDF]](http://superlj666.github.io/files/sm.pdf)
 [[Poster]](http://superlj666.github.io/files/ijicai-poster-0816.pdf)
