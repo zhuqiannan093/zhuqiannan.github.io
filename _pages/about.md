@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
- Â <img src="https://superlj666.github.io/files/jianli.jpg.jpg?raw=true" alt="Photo" style="width: 450px;"/>
+<img src="https://superlj666.github.io/files/jianli.jpg.jpg?raw=true" alt="Photo" style="width: 450px;"/>
 </p>
 
 * I am a Ph.D student in the [Information of Institute Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/), working with [Yong Liu](https://scholar.google.com/citations?user=vVhmzbAAAAAJ&hl=zh-CN). My research advisors is [Prof. Weiping Wang](https://scholar.google.com/citations?user=dAJ23QEAAAAJ&hl=zh-CN). I received my Bachelor’s  Degree in [Northeastern University](http://en.sjtu.edu.cn/) in Shenyang, China.
