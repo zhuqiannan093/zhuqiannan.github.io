@@ -2,9 +2,9 @@
 title: "Efficient kernel selection via spectral analysis"
 collection: publications
 permalink: /publications/sm
-venue: "The Tweenty-Sixth International Joint Conference on Artificial Intelligence (IJCAI 2017)"
+venue: "In Procedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI 2017)"
 date: 2017-8-19
-citation: '<b>Jian Li<b>, Yong Liu*, Hailun Lin, Yinliang Yue, Weiping WangYong Liu*, Hailun Lin, Yinliang Yue, Weiping Wang. <i>The Tweenty-Sixth International Joint Conference on Artificial Intelligence.</i> <b>IJCAI 2017</b>.'
+citation: '<b>Jian Li</b>, Yong Liu*, Hailun Lin, Yinliang Yue, Weiping Wang. <i>In Procedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI 2017) </i>.'
 ---
 [[PDF]](http://superlj666.github.io/files/sm.pdf)
 [[Poster]](http://superlj666.github.io/files/ijicai-poster-0816.pdf)

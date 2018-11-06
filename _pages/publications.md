@@ -3,11 +3,8 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
-
-## Publications
+<b>[Multi-Class Learning: From Theory to Algorithm](http://superlj666.github.io/publications/mc)</b> <br>
+<b>Jian Li</b>, Yong Liu*, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. <i>Advances in Neural Information Processing Systems 31 (NIPS 2018)</i>.
 
 <b>[Efficient kernel selection via spectral analysis](http://superlj666.github.io/publications/sm)</b> <br>
-<b>Jian Li<b>, Yong Liu*, Hailun Lin, Yinliang Yue, Weiping Wang. <i>The Tweenty-Sixth International Joint Conference on Artificial Intelligence.</i> <b>IJCAI 2017</b>.
-
-<b>[Multi-Class Learning: From Theory to Algorithm](http://superlj666.github.io/publications/mc)</b> <br>
-<b>Jian Li<b>, Yong Liu*, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. <i>Thirty-second Conference on Neural Information Processing Systems.</i> <b>NIPS 2018</b>.
+<b>Jian Li</b>, Yong Liu*, Hailun Lin, Yinliang Yue, Weiping Wang. <i>In Procedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI 2017) </i>.
