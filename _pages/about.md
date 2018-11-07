@@ -14,7 +14,7 @@ redirect_from:
 
 * I am a Ph.D. student in the [Institute of Information Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/), working with [Dr. Yong Liu](https://iie-liuyong.github.io) who is my research tutor. And My doctoral advisor is [Prof. Weiping Wang](https://scholar.google.com/citations?user=dAJ23QEAAAAJ&hl=zh-CN).
 * I received my Bachelor's Degree in [Northeastern University](https://en.sjtu.edu.cn/) in Shenyang, China, where I am a member of 2011 International class (English) in Software College.
-* My research interests lie in the general area of machine learning, particularly in large scale machine learning, kernel selection, and graph-based semi-supervised learning. In fact, my works focus on generalization analysis and design of effective and scalable algorithms for those research interests.
+* My research interests lie in the general area of machine learning, particularly in large scale machine learning, kernel selection, and graph-based semi-supervised learning. In fact, my works focus on generalization analysis and design of effective and scalable algorithms for those aspects.
 
 # Recent News
 * Sep 5, 2018. A paper titled "Multi-Class Learning: From Theory to Algorithm" was accepted at [NIPS 2018](https://nips.cc/Conferences/2018).
