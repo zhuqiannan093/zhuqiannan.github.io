@@ -9,4 +9,4 @@ location: "Shanghai, China"
 ---
 
 Online talk on how to apply adversarial training for generating discrete data.<br>
-[[Slide]](http://lantaoyu.github.io/files/2017-07-26-gan-for-discrete-data.pdf)
+[[Slide]](https://lantaoyu.github.io/files/2017-07-26-gan-for-discrete-data.pdf)

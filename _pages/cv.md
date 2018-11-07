@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](http://lijian.ac.cn/files/lijian_cv.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](https://lijian.ac.cn/files/lijian_cv.pdf)

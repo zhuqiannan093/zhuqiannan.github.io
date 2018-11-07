@@ -9,4 +9,4 @@ location: "Shanghai, China"
 ---
 
 Introduction of two research papers on applying adversarial training for information retrieval.<br>
-[[Slide]](http://lantaoyu.github.io/files/2017-04-19-gans-for-ir.pdf)
+[[Slide]](https://lantaoyu.github.io/files/2017-04-19-gans-for-ir.pdf)
