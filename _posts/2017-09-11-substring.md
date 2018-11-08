@@ -10,10 +10,11 @@ tags:
 
 ### 字串问题有个通用的滑动窗口算法，时间复杂度$O(n^2)$
 ### 其中关键：
-1. 窗口大小不固定：构造合适的count来控制窗口的滑动。
-2. 窗口大小固定：使用left、right控制窗口移动。
-3. 使用HashTable控制记录字符出现情况。（不在t中字符，或者已出现的应该<= 0，在t中的字符应该>=0）
-4. 若存在待比较字符串t，则初始化HashTable（t中字符对应value大于0），同时right++,HashTable中value--，count代表未命中字符个数。若无，则HashTable全部为0，同时right++，HashTable中value++，count++，count代表不同字符个数或者重复字符个数。
+
+* 窗口大小不固定：构造合适的count来控制窗口的滑动。
+* 窗口大小固定：使用left、right控制窗口移动。
+* 使用HashTable控制记录字符出现情况。（不在t中字符，或者已出现的应该<= 0，在t中的字符应该>=0）
+* 若存在待比较字符串t，则初始化HashTable（t中字符对应value大于0），同时right++,HashTable中value--，count代表未命中字符个数。若无，则HashTable全部为0，同时right++，HashTable中value++，count++，count代表不同字符个数或者重复字符个数。
 
 ```c++
 int findSubstring(string s){
@@ -29,11 +30,11 @@ int findSubstring(string s){
             if(map[s[end++]]-- ?){  /* modify counter here */ }
 
             while(/* counter condition */){ 
-                 
+
                  /* update d here if finding minimum*/
 
                 //increase begin to make it invalid/valid again
-                
+
                 if(map[s[begin++]]++ ?){ /*modify counter here*/ }
             }  
 
@@ -45,7 +46,6 @@ int findSubstring(string s){
 
 * 相关问题，76/242/438/159/3/30/340/395/467
 
----
 ## [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/#/description)
 
 * 解析: 2段字符串，找出包含t的最小窗口
@@ -69,8 +69,8 @@ int findSubstring(string s){
     }
 ```
 
-----
 ## [242. Valid Anagram ](https://leetcode.com/problems/valid-anagram/#/description)
+
 * 解析: 2段字符串，它们的内容全部相同，只是顺序不同
 * 边界：长度不一致，包含char个数不同
 * 思路：使用排序为$O(n\log(n))$，使用HashTable为$O(n)$
@@ -86,12 +86,12 @@ public:
         if (s == t) {
             return true;
         }
-        
+
         vector<int> hash_map(128,0);
         for (auto c : t) {
             ++hash_map[c];
         }
-        
+
         int count = t.size(), left = 0, right = 0;
         while (right < s.size()) {
             if(--hash_map[s[right++]] >= 0) {
@@ -101,19 +101,19 @@ public:
                 return true;
             }
         }
-        
+
         return false;
     }
 };
 ```
 
----
 ## [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/#/description)
+
 * 解析: 242的升级版。2段字符串，找出字符串A中所有可能是与字符串B构成回文结构的下标。设s长度为n,p长度为m
 * 边界：字符串大小为空，字符串A的大小 < 字符串B的大小
 * 误区：继续按照242的套路，时间复杂度最小也是O(nm)
 * 思路：使用滑动窗口，窗口大小为m，滑动n次，时间复杂度为O(n)。hash_map:使用p中字符出现次数 初始化该map。count:只会对hash中字符未命中的个数；每次遍历right++，对应的hash--；如果窗口大于hash，left++，对应hash++。可以看出不在hash中的字符对应的hash小于等于0（不会影响count），而在hash中的字符对应的hash开始就大于0。所以实际影响count的就是(left,right)区间内的字符，right经过但left未经过，这些字符全部减-1，若此时hash>0的个数代表着初始化的hash正好被right移动时减掉了。
-* 简单解释：利用了滑动窗口的特性---右边经过的，左边也会经过。所以，右借左还，不会影响初始的结束条件。
+* 简单解释：利用了滑动窗口的特性右边经过的，左边也会经过。所以，右借左还，不会影响初始的结束条件。
 * 时间复杂度$O(n)$
 
 ```c++
@@ -125,7 +125,7 @@ public:
         for (auto c : p) {
             ++hash_map[c];
         }
-        
+
         int count = p.size(), left = 0, right = 0;
         while (right < s.size()) {
             if(--hash_map[right++] >= 0) {
@@ -138,14 +138,14 @@ public:
                 ++count;
             }
         }
-        
+
         return result;
     }
 }
 ```
 
----
 ## [159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters)
+
 * 解析: 找出最多包含2个字符的最长子串。
 * 边界：字符串长度小于3时，直接返回该字符串长度。
 * 思路：count此处记录不同的字符个数，count > 2时，为invalid的情况。
@@ -170,8 +170,8 @@ int lengthOfLongestSubstringTwoDistinct(string s) {
 }
 ```
 
----
 ## [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/#/description)
+
 * 解析: 找出字符不重复的最长子串。
 * 边界：字符串长度小于2时，直接返回该字符串长度。
 * 思路：count此处记录重复字符个数，count为1时，为invalid的情况，需要移动left。
@@ -206,7 +206,7 @@ int lengthOfLongestSubstring(string s) {
     if(s.size() < 2) {
         return s.size();
     }
-    
+
     vector<int> hash_map(256,-1);
     int left = 0, right = 0, d = 0;
     while (right < s.size()) {
@@ -220,8 +220,8 @@ int lengthOfLongestSubstring(string s) {
 };
 ```
 
----
 ## [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/#/description)
+
 * 解析: 找出包含列表中全部的字符串的起始位置集合，类似438。
 * 边界：s的大小小于列表长度。
 * 思路：滑动窗口，left依次划过每个字符，判读left-right之间的字符串是否全部与列表命中。
@@ -263,8 +263,8 @@ vector<int> findSubstring(string s, vector<string>& words) {
 }
 ```
 
----
-## [395. Longest Substring with At Least K Repeating Characters]()
+## [395. Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters)
+
 * 解析: 找出每个字符最少重复K次的最长字符串。
 * 边界：子串长度小于K
 * 思路：将字符串按字符词典中小于K进行划分，若字符词典中出现次数全部大于K，则返回该字符串长度，并递归执行。
@@ -298,7 +298,7 @@ int longestSubstring(string s, int k) {
             splits_loc.push_back(i);
         }
     }
-    
+
     vector<int> result;
     int left = 0, right = -1;
     for (int loc : splits_loc) {
@@ -313,8 +313,8 @@ int longestSubstring(string s, int k) {
 
 ```
 
----
 ## [467. Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/#/description)
+
 * 解析: 连续字符的最大组合个数
 * 边界：不连续是组合个数为单个的
 * 思路：有n个连续的就有 (1+2+3+...+n)种组合情况，额外加入不连续的字符个数即可。同时要考虑，两段连续字符可能有部分重合的情况（这时候选取长的）。
@@ -337,4 +337,3 @@ int findSubstringInWraproundString(string p) {
     return res;
 }
 ```
----
