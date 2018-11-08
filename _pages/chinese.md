@@ -10,12 +10,9 @@ author_profile: true
 研究方向为机器学习，尤其关注大规模机器学习、核方法模型选择、基于图的半监督学习等方向。主要研究内容为针对上述研究点进行泛化分析及为它们设计高效、可伸缩算法。
 
 # 教育背景
-
-|时间|院校|专业|学历|导师|指导老师|
-|:--|:--|:--|:--|:--|:--|
-|2018-至今|中科院信工所|机器学习|博士研究生|[王伟平](http://bkjy.ucas.ac.cn/index.php/szdw/ds/jsjxk/wlkjaq/4188-wwp)|[刘勇](https://iie-liuyong.github.io)|
-|2015-2018|中科院信工所|机器学习|博士研究生|[王伟平](http://bkjy.ucas.ac.cn/index.php/szdw/ds/jsjxk/wlkjaq/4188-wwp)|[刘勇](https://iie-liuyong.github.io)|
-|2011-2015|东北大学|软件工程(英语)|本科生|||
+* 2018-至今，中科院信工所机器学习专业，博士研究生，导师：[王伟平](http://bkjy.ucas.ac.cn/index.php/szdw/ds/jsjxk/wlkjaq/4188-wwp)，指导老师：[刘勇](https://iie-liuyong.github.io)
+* 2015-2018，中科院信工所机器学习专业，博士研究生，导师：[王伟平](http://bkjy.ucas.ac.cn/index.php/szdw/ds/jsjxk/wlkjaq/4188-wwp)，指导老师：[刘勇](https://iie-liuyong.github.io)
+* 2011-2015，东北大学软件工程(英语)专业，本科生
 
 # 荣誉称号
 * 2018年博士研究生国家奖学金
