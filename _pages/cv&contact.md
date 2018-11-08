@@ -1,5 +1,4 @@
 ---
-<!-- layout: archive -->
 title: "Curriculum Vitae"
 permalink: /cv&contact/
 author_profile: true
@@ -22,6 +21,6 @@ Email: me [at] lijian.ac.cn, lijian9026 [at] iie.ac.cn
 
 |Name|Email|Position|Affiliation|
 |:---|:---|:---|:---|
-[Yong Liu](https://iie-liuyong.github.io)|liuyong@iie.ac.cn|Assistant Prof.|IIE, CAS|
+[Yong Liu](https://iie-liuyong.github.io)|liuyong@iie.ac.cn|Assistant Professer|IIE, CAS|
 Rong Yin|yinrong@iie.ac.cn|PhD student|IIE, CAS|
 [Jian Li](https://lijian.ac.cn)|me@lijian.ac.cn|PhD student|IIE, CAS|
