@@ -17,12 +17,18 @@ main:
     
   # - title: "Portfolio"
   #   url: /portfolio/
-        
-  - title: "Blogs"
-    url: /year-archive/
+         
+  - title: "People"
+    url: /people/ 
     
   - title: "Contact"
     url: /contact/  
+
+  - title: "Blogs"
+    url: /year-archive/
+  
+  - title: "中文介绍"
+    url: /chinese/
     
   # - title: "Guide"
     # url: /markdown/

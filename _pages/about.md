@@ -19,8 +19,3 @@ redirect_from:
 # Recent News
 * Sep 5, 2018. A paper titled "Multi-Class Learning: From Theory to Algorithm" was accepted at [NIPS 2018](https://nips.cc/Conferences/2018).
 * April 4, 2017. A paper titled "Efficient Kernel Selection via Spectral Analysis" was accepted at [IJCAI 2017](https://www.ijcai-17.org/).
-
-# 中文介绍
-* 我是李健，于中国科学院信息工程研究所(中科院信工所)攻读博士学位，导师是[王伟平研究员](http://bkjy.ucas.ac.cn/index.php/szdw/ds/jsjxk/wlkjaq/4188-wwp)，指导老师是[刘勇博士](https://iie-liuyong.github.io)。
-* 本科毕业于[东北大学](http://neu.edu.cn/)，所在班级为11级软件国际(英语)班。
-* 我的研究兴趣为机器学习，尤其关注大规模机器学习、核方法模型选择、基于图的半监督学习等方向。主要研究内容为针对上述研究点进行泛化分析及为它们设计高效、可伸缩算法。
