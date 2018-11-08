@@ -140,7 +140,7 @@ public:
 ```
 
 ---
-## 159. Longest Substring with At Most Two Distinct Characters
+## [159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters)
 ### 解析: 找出最多包含2个字符的最长子串。
 ### 边界：字符串长度小于3时，直接返回该字符串长度。
 ### 思路：count此处记录不同的字符个数，count > 2时，为invalid的情况。

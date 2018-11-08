@@ -258,7 +258,7 @@ vector<vector<int>> fourSum(vector<int>& nums, int target) {
 }
 ```
 ---
-## 259. 3Sum Smaller
+## [259. 3Sum Smaller](https://leetcode.com/problems/3sum-smaller)
 ```c++
 Given an array of n integers nums and a target, find the number of index triplets i, j, k with 0 <= i < j < k < n that satisfy the condition nums[i] + nums[j] + nums[k] < target.
 
