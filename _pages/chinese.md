@@ -22,7 +22,7 @@ author_profile: true
 * 2018年博士研究生国家奖学金
 * 2018年中国科学院大学“三好学生”
 
-# 出版信息
+# 论文列表
 <b>[Multi-Class Learning: From Theory to Algorithm](https://superlj666.github.io/publications/mc)</b> <br>
 <b>Jian Li</b>, Yong Liu, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. <i>Advances in Neural Information Processing Systems 31 (NIPS 2018)</i>.
 

@@ -1,8 +1,10 @@
 ---
-title: "[(Google Scholar Profile)](https://scholar.google.com/citations?user=IAJpTqYAAAAJ&hl=zh-CN)"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+## [Google Scholar Profile](https://scholar.google.com/citations?user=IAJpTqYAAAAJ&hl=zh-CN)
 
 <b>[Multi-Class Learning: From Theory to Algorithm](https://superlj666.github.io/publications/mc)</b> <br>
 <b>Jian Li</b>, Yong Liu, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. <i>Advances in Neural Information Processing Systems 31 (NIPS 2018)</i>.
