@@ -19,20 +19,3 @@ redirect_from:
 # Recent News
 * Sep 5, 2018. A paper titled "Multi-Class Learning: From Theory to Algorithm" was accepted at [NIPS 2018](https://nips.cc/Conferences/2018).
 * April 4, 2017. A paper titled "Efficient Kernel Selection via Spectral Analysis" was accepted at [IJCAI 2017](https://www.ijcai-17.org/).
-
-```c++
-bool isValid(string s) {
-    stack<char> parentheses;
-    unordered_map<char, char> left2right = {{'\(', '\)'}, {'\{', '\}'}, {'\[', '\]'}};
-    for (char c:s) {
-        if (c == '\(' || c == '\{' || c == '\[') {
-            parentheses.push(c);
-        } else if (!parentheses.empty() && c == left2right[parentheses.top()]) {
-            parentheses.pop();
-        } else{
-            return false;
-        }
-    }
-    return parentheses.empty();
-}
-```
