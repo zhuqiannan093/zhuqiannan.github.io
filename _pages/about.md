@@ -18,8 +18,8 @@ redirect_from:
 * My research interests lie in the general area of machine learning, particularly in large scale machine learning, kernel selection, and graph-based semi-supervised learning. In fact, my works focus on generalization analysis and design of effective and scalable algorithms for those aspects.
 
 ## 中文简介
-* 我是中国科学院信息工程研究所(中科院信工所)的一名博士生, [刘勇博士]((https://iie-liuyong.github.io))是我的指导老师, [王伟平研究员](https://scholar.google.com/citations?user=dAJ23QEAAAAJ&hl=zh-CN)是我的导师.
-* 本科毕业于[东北大学](http://neu.edu.cn/), 所在班级为11级软件国际(英语)班.
+* 我是中国科学院信息工程研究所(中科院信工所)的一名博士生，导师是[王伟平研究员](http://bkjy.ucas.ac.cn/index.php/szdw/ds/jsjxk/wlkjaq/4188-wwp)，指导老师是[刘勇博士](https://iie-liuyong.github.io)。
+* 本科毕业于[东北大学](http://neu.edu.cn/)，所在班级为11级软件国际(英语)班。
 * 我的研究兴趣为机器学习，尤其关注大规模机器学习、核方法模型选择、基于图的半监督学习等方向。 实际上，我的主要研究内容为针对上述研究点进行泛化分析及为它们设计高效、可伸缩算法。
 
 # Recent News
