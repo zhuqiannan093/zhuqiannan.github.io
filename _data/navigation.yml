@@ -1,4 +1,4 @@
-# main links links
+ # main links links
 main:
   - title: "Publications"
     url: /publications/
@@ -14,15 +14,17 @@ main:
     
   # - title: "Portfolio"
   #   url: /portfolio/
-    
-  - title: "CV&Contact"
-    url: /cv&contact/  
+
+  - title: "My Lab"
+    url: /lab/
 
   - title: "Blogs"
     url: /year-archive/
   
+  - title: "CV&Contact"
+    url: /cv&contact/  
+
   - title: "中文介绍"
-    url: /chinese/
-    
-  # - title: "Guide"
-    # url: /markdown/
+    url: /chinese/  
+  
+  
