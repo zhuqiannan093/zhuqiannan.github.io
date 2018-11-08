@@ -25,10 +25,10 @@ You must do this in-place without altering the nodes' values.
 For example,
 Given {1,2,3,4}, reorder it to {1,4,2,3}.
 ```
-### 该题目几乎使用到了所有的套路
-### 1. 使用2个指针，求出链表中点
-### 2. 将后半段链表逆序
-### 3. 使用3个指针，将2两个链表拼接起来
+* 该题目涵盖很多方法
+1. 使用2个指针，求出链表中点
+2. 将后半段链表逆序
+3. 使用3个指针，将2两个链表拼接起来
 ```c++
 void reorderList(ListNode* head) {
     ListNode preHead1 = ListNode(INT_MIN);
@@ -78,7 +78,7 @@ Note:
 Given m, n satisfy the following condition:
 1 ≤ m ≤ n ≤ length of list.
 ```
-### 对链表中一段区域进行逆序。思路很清楚：找出该段的的前一个节点，对该段长度的节点进行逆序，并将pre节点和后面的连接起来。
+* 对链表中一段区域进行逆序。思路很清楚：找出该段的的前一个节点，对该段长度的节点进行逆序，并将pre节点和后面的连接起来。
 ```c++
 ListNode* reverseBetween(ListNode* head, int m, int n) {
     ListNode preHead = ListNode(INT_MIN);
@@ -116,9 +116,9 @@ For k = 2, you should return: 2->1->4->3->5
 
 For k = 3, you should return: 3->2->1->4->5
 ```
-### 每k个节点为一组，内部逆序
-### 求出链表长度，当链表长度 >= k时才进行循环，每k个节点进行逆序并和之前拼接
-### left记录上组最后一个，pt记录本组第一个，right记录本组的遍历
+* 每k个节点为一组，内部逆序
+* 求出链表长度，当链表长度 >= k时才进行循环，每k个节点进行逆序并和之前拼接
+* left记录上组最后一个，pt记录本组第一个，right记录本组的遍历
 ```c++
 ListNode* reverseKGroup(ListNode* head, int k) {
     if(head==NULL||k==1) return head;
@@ -152,7 +152,7 @@ Given a linked list, determine if it has a cycle in it.
 Follow up:
 Can you solve it without using extra space?
 ```
-### 经典的求链表是否有环的问题，使用快慢指针解决，如果会相遇则有环。
+* 经典的求链表是否有环的问题，使用快慢指针解决，如果会相遇则有环。
 ```c++
 bool hasCycle(ListNode *head) {
     if (!head) return false;
@@ -175,8 +175,8 @@ Note: Do not modify the linked list.
 Follow up:
 Can you solve it without using extra space?
 ```
-### 如果不考虑空间复杂度，可以使用set保存已经访问过的节点。
-### 空间复杂度为O(1)的方法是，快慢指针相遇的地方离入口的距离和从头出发的距离是一样的。[具体原因](https://discuss.leetcode.com/topic/5284/concise-o-n-solution-by-using-c-with-detailed-alogrithm-description/2)
+* 如果不考虑空间复杂度，可以使用set保存已经访问过的节点。
+* 空间复杂度为O(1)的方法是，快慢指针相遇的地方离入口的距离和从头出发的距离是一样的。[具体原因](https://discuss.leetcode.com/topic/5284/concise-o-n-solution-by-using-c-with-detailed-alogrithm-description/2)
 ```c++
 ListNode *detectCycle(ListNode *head) {
     if (!head) return NULL;
@@ -209,7 +209,7 @@ Note:
 Given n will always be valid.
 Try to do this in one pass.
 ```
-### 去除倒数第k个节点。使用2个指针，指针的距离为k+1。
+* 去除倒数第k个节点。使用2个指针，指针的距离为k+1。
 ```c++
 ListNode* removeNthFromEnd(ListNode* head, int n) {
     ListNode preHead = ListNode(INT_MIN);
@@ -236,7 +236,7 @@ For example,
 Given 1->1->2, return 1->2.
 Given 1->1->2->3->3, return 1->2->3.
 ```
-### 有序链表去重。使用2个指针，当right的指针指向的值大于left指针指向的值，则left指针的下一个指向该right指针指向的节点，并移动left指针。
+* 有序链表去重。使用2个指针，当right的指针指向的值大于left指针指向的值，则left指针的下一个指向该right指针指向的节点，并移动left指针。
 ```c++
 ListNode* deleteDuplicates(ListNode* head) {
     if (!head) return head;
@@ -263,8 +263,8 @@ For example,
 Given 1->2->3->3->4->4->5, return 1->2->5.
 Given 1->1->1->2->3, return 2->3.
 ```
-### 1. left负责加入不重复节点，right负责遍历数组
-### 2. right每次遇到新元素便遍历到该值的最后一个节点
+* 1. left负责加入不重复节点，right负责遍历数组
+* 2. right每次遇到新元素便遍历到该值的最后一个节点
 ```c++
 ListNode* deleteDuplicates(ListNode* head) {
     if (!head) return head;
@@ -299,10 +299,10 @@ For example,
 Given 1->4->3->2->5->2 and x = 3,
 return 1->2->2->4->3->5.
 ```
-### 将链表拆分成2部分，最后连接起来
-### 1. 新建两个dump节点leftHead、rightHead
-### 2. left、right两个指针负责为两个新链表添加节点
-### 3. head负责遍历原始链表
+* 将链表拆分成2部分，最后连接起来
+* 1. 新建两个dump节点leftHead、rightHead
+* 2. left、right两个指针负责为两个新链表添加节点
+* 3. head负责遍历原始链表
 ```c++
 ListNode* partition(ListNode* head, int x) {
     ListNode leftHead = ListNode(INT_MIN);
@@ -328,7 +328,7 @@ ListNode* partition(ListNode* head, int x) {
 ```c++
 Merge k sorted linked lists and return it as one sorted list. Analyze and describe its complexity.
 ```
-### 这道题目可以使用在每个链表中当前节点中选取val最小的，然后拼接起来。或者递归地两两合并，利用分治的思想。时间复杂度分别是O(kn)、O(nlogk)。然而实际使用分治的方法要快很多。
+* 这道题目可以使用在每个链表中当前节点中选取val最小的，然后拼接起来。或者递归地两两合并，利用分治的思想。时间复杂度分别是O(kn)、O(nlogk)。然而实际使用分治的方法要快很多。
 ```c++
 ListNode *mergeTwoLists(ListNode* l1, ListNode* l2) {
     if (NULL == l1) return l2;
@@ -364,8 +364,8 @@ For example:
 Given 1->2->3->4->5->NULL and k = 2,
 return 4->5->1->2->3->NULL.
 ```
-### 1. 遍历链表，求出链表长度，并将链表首尾相连
-### 2. 遍历到len - (k%len)的位置，将链表断开
+* 1. 遍历链表，求出链表长度，并将链表首尾相连
+* 2. 遍历到len - (k%len)的位置，将链表断开
 ```c++
 ListNode* rotateRight(ListNode* head, int k) {
     if (!head) return head;

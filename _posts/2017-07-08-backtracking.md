@@ -8,11 +8,11 @@ tags:
   - Algorithms
 ---
 
-### 套路很深，就是遍历全部情况
+### 遍历全部情况
 1. 定义解空间，包含全部解
 2. 利用深度优先搜索解空间
 3. Trial，减枝。（避免访问不可能产生解的子空间）
-### 而**根据条件有选择的遍历**，叫做剪枝或分枝定界。
+* 而**根据条件有选择的遍历**，叫做剪枝或分枝定界。
 
 ### 主要分为两种情况：
 1. 宽度不定，解空间大小通常为2^m（排列问题的解空间是n!阶乘形）。该类题目通常为，cur的长度不定的题目。如39、40、78等。
@@ -70,9 +70,9 @@ A solution set is:
   [2, 2, 3]
 ]
 ```
-### 候选集合中选取数字，其和为目标值，同一元素可以重复出现。
-### 解空间： 深度不定， 宽度为candidates.size() - lastIndex。
-### 减枝： 和小于等于target
+* 候选集合中选取数字，其和为目标值，同一元素可以重复出现。
+* 解空间： 深度不定， 宽度为candidates.size() - lastIndex。
+* 减枝： 和小于等于target
 ```c++
 vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
     vector<vector<int>> res;
@@ -112,9 +112,9 @@ A solution set is:
   [1, 1, 6]
 ]
 ```
-### 候选集合中选取数字，其和为目标值，同一元素不可重复出现。不可重复，所以递归函数调用下一个，同时完成递归后将指针移动到与当前元素值不同的位置。
-### 解空间：2^m。深度最大为m， 宽度为candidates.size() - lastIndex - 1。
-### 减枝条件： 和小于等于target。
+* 候选集合中选取数字，其和为目标值，同一元素不可重复出现。不可重复，所以递归函数调用下一个，同时完成递归后将指针移动到与当前元素值不同的位置。
+* 解空间：2^m。深度最大为m， 宽度为candidates.size() - lastIndex - 1。
+* 减枝条件： 和小于等于target。
 ```c++
 vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
     std::sort(candidates.begin(), candidates.end());
@@ -144,9 +144,9 @@ void helper(vector<int> &candidates, int target, int index, vector<vector<int>> 
 ```c++
 Find all possible combinations of k numbers that add up to a number n, given that only numbers from 1 to 9 can be used and each combination should be a unique set of numbers.
 ```
-### 从1-9任取k次，和为n的情况。不可重复。
-### 解空间：2^m。深度最大为m， 宽度为candidates.size() - lastIndex - 1。
-### 减枝条件： 和小于等于target。
+* 从1-9任取k次，和为n的情况。不可重复。
+* 解空间：2^m。深度最大为m， 宽度为candidates.size() - lastIndex - 1。
+* 减枝条件： 和小于等于target。
 ```c++
 class curution {
 public:
@@ -188,9 +188,9 @@ If nums = [1,2,3], a solution is:
   []
 ]
 ```
-### 求int数组的子集。
-### 解空间：总大小2^m, m为子集大小。宽度不定型
-### 减枝：无
+* 求int数组的子集。
+* 解空间：总大小2^m, m为子集大小。宽度不定型
+* 减枝：无
 ```c++
 class Solution {
 public:
@@ -258,9 +258,9 @@ If nums = [1,2,2], a solution is:
   []
 ]
 ```
-### 求int数组的子集。
-### 解空间：总大小2^m, m为子集大小。宽度不定型
-### 减枝：i == depth || nums[i] != nums[i-1]
+* 求int数组的子集。
+* 解空间：总大小2^m, m为子集大小。宽度不定型
+* 减枝：i == depth || nums[i] != nums[i-1]
 ```c++
 class Solution {
 public:
@@ -296,12 +296,12 @@ Return
   ["a","a","b"]
 ]
 ```
-### 求字符串分割为回文子串的全部情况。
+* 求字符串分割为回文子串的全部情况。
 1. 迭代，遍历给定字符串从起始位置到终止，每个位置代表s.substr(index, i - index + 1)。若该子串为回文，则该子串加入cur中，并递归找出去除该子串之后位置的回文。
 2. 递归，递归函数结束条件为起始位置=字符串长度
 
-### 解空间： 2^n, n为字符串长度
-### 减枝：s[index, i]为回文
+* 解空间： 2^n, n为字符串长度
+* 减枝：s[index, i]为回文
 ```c++
 vector<vector<string>> partition(string s) {
     vector<vector<string>> res;
@@ -345,9 +345,9 @@ For example,
   [3,2,1]
 ]
 ```
-### 求全排列n！。
-### 解空间：n!
-### 减枝：无
+* 求全排列n！。
+* 解空间：n!
+* 减枝：无
 ```c++
 class Solution {
 public:
@@ -391,9 +391,9 @@ For example,
   [2,1,1]
 ]
 ```
-### 数组中存在重复元素，求数组的全排列。
-### 解空间：n！
-### 减枝：i==0 || (i > 0 && element != last)
+* 数组中存在重复元素，求数组的全排列。
+* 解空间：n！
+* 减枝：i==0 || (i > 0 && element != last)
 ```c++
 class Solution {
 public:
@@ -440,9 +440,9 @@ Given "25525511135",
 
 return ["255.255.11.135", "255.255.111.35"]. (Order does not matter)
 ```
-### 求数字序列构成ip地址的可能情况。
-### 解空间：3^m，m为字符串长度
-### 减枝：tmpInt < 256 && to_string(tmpInt).size() == tmp.size() && divides < 4
+* 求数字序列构成ip地址的可能情况。
+* 解空间：3^m，m为字符串长度
+* 减枝：tmpInt < 256 && to_string(tmpInt).size() == tmp.size() && divides < 4
 ```c++
 class Solution {
 public:
@@ -490,11 +490,11 @@ word = "ABCCED", -> returns true,
 word = "SEE", -> returns true,
 word = "ABCB", -> returns false.
 ```
-### 在字符矩阵中找某个字符串是否存在，可以水平或垂直移动，4个方向。
-### 时间复杂度：O(n!)
-### 解空间：m*n*(4^k)， m*n为board大小， k为单词长度
-### DFS：迭代规模为m*n，递归深度为k。
-### 减枝：4个方向的字符为当前字符
+* 在字符矩阵中找某个字符串是否存在，可以水平或垂直移动，4个方向。
+* 时间复杂度：O(n!)
+* 解空间：m*n*(4^k)， m*n为board大小， k为单词长度
+* DFS：迭代规模为m*n，递归深度为k。
+* 减枝：4个方向的字符为当前字符
 ```c++
 bool exist(vector<vector<char>>& board, string word) {
 	for (int i = 0; i < board.size(); ++i) {
@@ -536,9 +536,9 @@ If n = 4 and k = 2, a solution is:
   [1,4],
 ]
 ```
-### 返回给定的全部组合数目
-### 解空间： n^k
-### 减枝：前面的小于后面的。
+* 返回给定的全部组合数目
+* 解空间： n^k
+* 减枝：前面的小于后面的。
 ```c++
 vector<vector<int>> combine(int n, int k) {
     vector<vector<int>> res;
@@ -572,9 +572,9 @@ For example, given n = 3, a solution set is:
   "()()()"
 ]
 ```
-### 生成合法括号序列。
-### 解空间：2^n。n个位置，去左括号或右括号
-### 减枝：1. 左括号个数小于n时，可以添加左括号。2. 左括号多于右括号时，可以添加右括号。
+* 生成合法括号序列。
+* 解空间：2^n。n个位置，去左括号或右括号
+* 减枝：1. 左括号个数小于n时，可以添加左括号。2. 左括号多于右括号时，可以添加右括号。
 ```c++
 vector<string> generateParenthesis(int n) {
     vector<string> res;
@@ -608,9 +608,9 @@ Write a program to solve a Sudoku puzzle by filling the empty cells.
 Empty cells are indicated by the character '.'.
 You may assume that there will be only one unique solution.
 ```
-### 数独求解，行、列、3*3box中都不能有重复值。
-### 解空间：9^m。
-### 减枝：尝试插入数值，满足行、列、3*3box中都不能有重复值。
+* 数独求解，行、列、3*3box中都不能有重复值。
+* 解空间：9^m。
+* 减枝：尝试插入数值，满足行、列、3*3box中都不能有重复值。
 ```c++
 class Solution {
 public:
@@ -647,9 +647,9 @@ public:
 ```
 ---
 ## [51. N-Queens](https://leetcode.com/problems/n-queens/#/description)
-### n皇后问题。
-### 解空间：n^n。
-### 减枝：皇后不能在同一行、同一列、45度角（行差=列差）。
+* n皇后问题。
+* 解空间：n^n。
+* 减枝：皇后不能在同一行、同一列、45度角（行差=列差）。
 ```c++
 class Solution {
 public:
@@ -692,9 +692,9 @@ public:
 ```
 ---
 ## [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/#/description)
-### n皇后解的个数。
-### 解空间：n^n。
-### 减枝：皇后不能在同一行、同一列、45度角（行差=列差）。
+* n皇后解的个数。
+* 解空间：n^n。
+* 减枝：皇后不能在同一行、同一列、45度角（行差=列差）。
 ```c++
 class Solution {
 public:
@@ -731,9 +731,9 @@ public:
 ```
 ---
 ## [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/#/description)
-### 9键键盘数字序列对应的所有字母序列的。
-### 解空间： 4^n，n为数字序列的长度。
-### 减枝： 无
+* 9键键盘数字序列对应的所有字母序列的。
+* 解空间： 4^n，n为数字序列的长度。
+* 减枝： 无
 ```c++
 vector<string> letterCombinations(string digits) {
 	static const vector<string> digit2letter = {"", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
@@ -756,10 +756,10 @@ void getHits(string digits, vector<string> digit2letter, int pos, vector<string>
 ```
 ---
 ## [526. Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/#/description)
-### 解析: 1-N构成数组，满足ith整除i或者i整除ith。注意，这是要求全部满足。
-### 边界：为空
-### 思路：输入长度N，每次起始位置不变全部为1，中间结果（深度，即构成第i个），与顺序有关。
-### 时间复杂度：O(n!)
+* 解析: 1-N构成数组，满足ith整除i或者i整除ith。注意，这是要求全部满足。
+* 边界：为空
+* 思路：输入长度N，每次起始位置不变全部为1，中间结果（深度，即构成第i个），与顺序有关。
+* 时间复杂度：O(n!)
 ```c++
 int countArrangement(int N) {
     int res = 0;
@@ -781,10 +781,10 @@ void arrange(vector<int> used, int &res, int depth) {
 ```
 ---
 ## [357. Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/#/description)
-### 解析: [0,10^N)的范围内整数中，每位完全不重复的整数个数
-### 边界：为空
-### 思路：0特殊处理，不能用来做首位。total = 1 ，处理了前面几位是0的情况。 
-### 时间复杂度：O(n!)
+* 解析: [0,10^N)的范围内整数中，每位完全不重复的整数个数
+* 边界：为空
+* 思路：0特殊处理，不能用来做首位。total = 1 ，处理了前面几位是0的情况。 
+* 时间复杂度：O(n!)
 ```c++
 int countNumbersWithUniqueDigits(int n) {
 	vector<int> occur(10, 0);

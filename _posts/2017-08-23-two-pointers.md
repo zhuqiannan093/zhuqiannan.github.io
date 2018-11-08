@@ -12,10 +12,10 @@ tags:
 ### 适用于排好序的情况
 ---
 ## [86. Partition List](https://leetcode.com/problems/partition-list/#/description)
-### 解析: 使用x进行划分，小的在前面，大的在后面，x两边的相对顺序不变。
-### 边界：链表为空
-### 思路：两个指针，一个负责小于x的情况，一个负责大于等于x的情况，之后连起来即可。注意！！！使用创建ListNode的对象，返回该对象的next
-### 时间复杂度：O(n)
+* 解析: 使用x进行划分，小的在前面，大的在后面，x两边的相对顺序不变。
+* 边界：链表为空
+* 思路：两个指针，一个负责小于x的情况，一个负责大于等于x的情况，之后连起来即可。注意！！！使用创建ListNode的对象，返回该对象的next
+* 时间复杂度：O(n)
 ```c++
 class Solution {
 public:
@@ -70,10 +70,10 @@ Given n non-negative integers a1, a2, ..., an, where each represents a point at 
 
 Note: You may not slant the container and n is at least 2.
 ```
-### 解析: abs(i-j)*min(nums[i],nums[j]) 的最大值
-### 边界：输入数组大小小于2
-### 思路：保留所有可能性，left在最左，right在最右。abs(i-j)肯定会变小，所有只需考虑高，高小于当前桶最高时，就要移动。
-### 时间复杂度：O(n)
+* 解析: abs(i-j)*min(nums[i],nums[j]) 的最大值
+* 边界：输入数组大小小于2
+* 思路：保留所有可能性，left在最左，right在最右。abs(i-j)肯定会变小，所有只需考虑高，高小于当前桶最高时，就要移动。
+* 时间复杂度：O(n)
 ```c++
 int maxArea(vector<int>& height) {
     int res;
@@ -136,9 +136,9 @@ You may assume that each input would have exactly one solution and you may not u
 Input: numbers={2, 7, 11, 15}, target=9
 Output: index1=1, index2=2
 ```
-### 解析: 1. 先进行排序 2.取第i个元素的负为要求的和 3. 之后的处理和排好序的2SUM差不多。
-### 注意的是重复问题，解决方法是 1. 开始时left = i + 1。 2. left有重复则left++，right有重复则right--，nums[i]有重复则i++。 3. nums[i] == nums[i+1] 时，i++
-### 时间复杂度O(n^2)
+* 解析: 1. 先进行排序 2.取第i个元素的负为要求的和 3. 之后的处理和排好序的2SUM差不多。
+* 注意的是重复问题，解决方法是 1. 开始时left = i + 1。 2. left有重复则left++，right有重复则right--，nums[i]有重复则i++。 3. nums[i] == nums[i+1] 时，i++
+* 时间复杂度O(n^2)
 ```c++
 vector<vector<int>> threeSum(vector<int>& nums) {
     vector<vector<int>> res;
@@ -174,9 +174,9 @@ Given an array S of n integers, find three integers in S such that the sum is cl
 
     The sum that is closest to the target is 2. (-1 + 2 + 1 = 2).
 ```
-### 解析: 和3SUM类似，取三个数值和与目标值最近的。
-### 思路：需要逼近目标值可能的情况，排序+左右2个指针，去逼近目标值即可。left = i + 1，避免了重复取值。
-### 时间复杂度：O( n^2 )，如果挨个遍历则是O(n^3)
+* 解析: 和3SUM类似，取三个数值和与目标值最近的。
+* 思路：需要逼近目标值可能的情况，排序+左右2个指针，去逼近目标值即可。left = i + 1，避免了重复取值。
+* 时间复杂度：O( n^2 )，如果挨个遍历则是O(n^3)
 ```c++
 int threeSumClosest(vector<int>& nums, int target) {
     std::sort(nums.begin(),nums.end());
@@ -220,9 +220,9 @@ A solution set is:
   [-2,  0, 0, 2]
 ]
 ```
-### 解析: 3Sum的变种，求4个数值的和等于目标值。
-### 思路：先排序，4个数值从小到大，前2个用for，后2个使用2个指针。需要注意的是：1. 命中时，left和right移动到不等于与之前值不同的位置 2. for循环中的去重要在每次循环的结束位置，这样就会考虑到重复值的开头和结尾，中间部分去掉。
-### 注意：每层循环的去重，i层，j层，2指针层。套路是去重放在后面，特别是2指针层的去重，要注意使用临时变量保存结果，去重时和临时变量进行比较。
+* 解析: 3Sum的变种，求4个数值的和等于目标值。
+* 思路：先排序，4个数值从小到大，前2个用for，后2个使用2个指针。需要注意的是：1. 命中时，left和right移动到不等于与之前值不同的位置 2. for循环中的去重要在每次循环的结束位置，这样就会考虑到重复值的开头和结尾，中间部分去掉。
+* 注意：每层循环的去重，i层，j层，2指针层。套路是去重放在后面，特别是2指针层的去重，要注意使用临时变量保存结果，去重时和临时变量进行比较。
 ```c++
 vector<vector<int>> fourSum(vector<int>& nums, int target) {
     vector<vector<int>> res;
@@ -270,10 +270,10 @@ Return 2. Because there are two triplets which sums are less than 2:
 [-2, 0, 3]
 Follow up: Could you solve it in O(n2) runtime?
 ```
-### 解析: 求3个数值和比目标值小的全部情况。
-### 边界：输入数组大小小于3
-### 思路：sum >= target时，right左移。sum < target时，共有right-left中情况命中（sum[i]、left、从right到left的后一个），left右移。
-### 时间复杂度：O(n^2 )，如果挨个遍历则是O(n^3 )
+* 解析: 求3个数值和比目标值小的全部情况。
+* 边界：输入数组大小小于3
+* 思路：sum >= target时，right左移。sum < target时，共有right-left中情况命中（sum[i]、left、从right到left的后一个），left右移。
+* 时间复杂度：O(n^2 )，如果挨个遍历则是O(n^3 )
 ```c++
 int threeSumSmaller(vector<int>& nums, int target) {
     if (nums.size() < 3) {
@@ -321,10 +321,10 @@ void sortColors(vector<int>& nums) {
 ```
 ---
 ## [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/#/description)
-### 解析: int数组，求这些数值构成的桶盛水的大小。
-### 边界：数组大小大于2
-### 思路：这道题时间复杂度为O(n)的情况比较难想，主要是要确定两个值能构成桶的边，而且桶的边是可以移动的。使用left、right2个指针，谁小谁往中间凑，谁大谁不动，这就确定了桶的1条边maxLeft或者maxRight。当移动过程中的值 >= 当前边时，小于maxLeft或maxRight，差值就是该位置盛水的大小。
-### 时间复杂度：O(n)
+* 解析: int数组，求这些数值构成的桶盛水的大小。
+* 边界：数组大小大于2
+* 思路：这道题时间复杂度为O(n)的情况比较难想，主要是要确定两个值能构成桶的边，而且桶的边是可以移动的。使用left、right2个指针，谁小谁往中间凑，谁大谁不动，这就确定了桶的1条边maxLeft或者maxRight。当移动过程中的值 >= 当前边时，小于maxLeft或maxRight，差值就是该位置盛水的大小。
+* 时间复杂度：O(n)
 ```c++
 int trap(vector<int>& height) {
     if (height.size() < 2) return 0;
@@ -397,10 +397,10 @@ int removeDuplicates(vector<int>& nums) {
 ```
 ---
 ## [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/#/description)
-### 解析: 链表中移除倒数第N个元素。
-### 边界：链表为空
-### 思路：两个指针，距离为N即可，当right为空时，left在要去除的位置。需要注意的是最好另外有个新指针res指向给出链表的头部，返回res.next()，可以统一处理结果为空的情况。
-### 时间复杂度：O(n)
+* 解析: 链表中移除倒数第N个元素。
+* 边界：链表为空
+* 思路：两个指针，距离为N即可，当right为空时，left在要去除的位置。需要注意的是最好另外有个新指针res指向给出链表的头部，返回res.next()，可以统一处理结果为空的情况。
+* 时间复杂度：O(n)
 ```c++
 ListNode* removeNthFromEnd(ListNode* head, int n) {
     ListNode res = ListNode(-1);
@@ -424,10 +424,10 @@ ListNode* removeNthFromEnd(ListNode* head, int n) {
 ```
 ---
 ## [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/#/description)
-### 解析: 求使得连续子数组和>x的最短连续子数组。
-### 边界：全部和<x
-### 思路：连续数组和>x时，才尝试移动left。
-### 时间复杂度：O(n^2)
+* 解析: 求使得连续子数组和>x的最短连续子数组。
+* 边界：全部和<x
+* 思路：连续数组和>x时，才尝试移动left。
+* 时间复杂度：O(n^2)
 ```c++
 int minSubArrayLen(int s, vector<int>& nums) {
     int left = 0, right = 0, sum = 0, res = INT_MAX;
@@ -443,10 +443,10 @@ int minSubArrayLen(int s, vector<int>& nums) {
 ```
 ---
 ## [61. Rotate List](https://leetcode.com/problems/rotate-list/#/description)
-### 解析: 旋转链表，将链表从右往左的第k个节点作为分割进行旋转。注意：
-### 边界：全部和<x
-### 思路：遍历链表，统计链表长度，使链表收尾相接！！！求出实际分割点，进行分割。
-### 时间复杂度：O(n^2)
+* 解析: 旋转链表，将链表从右往左的第k个节点作为分割进行旋转。注意：
+* 边界：全部和<x
+* 思路：遍历链表，统计链表长度，使链表收尾相接！！！求出实际分割点，进行分割。
+* 时间复杂度：O(n^2)
 ```c++
 ListNode* rotateRight(ListNode* head, int k) {
     if (!head) return NULL;
