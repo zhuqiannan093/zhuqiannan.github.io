@@ -15,7 +15,7 @@ author_profile: true
 |:--|:--|:--|:--|:--|:--|
 |2018-至今|中科院信工所|机器学习|博士研究生|[王伟平](http://bkjy.ucas.ac.cn/index.php/szdw/ds/jsjxk/wlkjaq/4188-wwp)|[刘勇](https://iie-liuyong.github.io)|
 |2015-2018|中科院信工所|机器学习|博士研究生|[王伟平](http://bkjy.ucas.ac.cn/index.php/szdw/ds/jsjxk/wlkjaq/4188-wwp)|[刘勇](https://iie-liuyong.github.io)|
-|2011-2015|东北大学|软件工程(国际英语)|本科生|||
+|2011-2015|东北大学|软件工程(英语)|本科生|||
 
 # 荣誉称号
 * 2018年博士研究生国家奖学金
