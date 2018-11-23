@@ -37,6 +37,7 @@ python3 -m pip install jupyter
     c.NotebookApp.ip='*' # 设置可远程访问
     c.NotebookApp.open_browser = False
     c.NotebookApp.port =8888 # 默认端口
+    c.NotebookApp.allow_root = False
     ```
     * 查看帮助  
     ```jupyter notebook --help```
