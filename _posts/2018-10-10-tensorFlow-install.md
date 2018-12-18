@@ -20,6 +20,7 @@ tags:
 ## 步骤
 
 > 参考[TensorFlow安装教程](https://www.tensorflow.org/install/pip?hl=zh-cn)
+
 1. 安装Anaconda
 2. 安装NVIDIA显卡驱动，查看版本`cat /proc/driver/nvidia/version`.
 3. 安装CUDA，查看版本`cat /usr/local/cuda/version.txt`.
@@ -31,17 +32,22 @@ tags:
     * 安装gcc、bazel，编译TensorFlow源代码
     * 生成pip安装包并安装
     * 查看安装TensorFlow版本  
+
 ```python3 -c 'import tensorflow as tf; print(tf.__version__)'```
 
 > 需要注意的是, 234机没拿到root权限, 安装软件很受限, 不能使用yum、docker。只能使用wget，编译、安装、加入PATH的方式。
 
 ## 非root用户使用pip虚拟环境安装最新版
+
 > 参考 https://www.tensorflow.org/install/pip?hl=zh-cn
+
 1. 前置条件：python3/pip3/virtualenv, 下载安装anaconda都可以解决前两个
+
    ```shell
    wget https://repo.anaconda.com/archive/Anaconda3-5.3.0-Linux-x86_64.sh
    bash Anaconda3-5.3.0-Linux-x86_64.sh
    ```
+
    安装viertualenv
    ```
     $ curl -O https://pypi.python.org/packages/source/v/virtualenv/virtualenv-X.X.tar.gz
