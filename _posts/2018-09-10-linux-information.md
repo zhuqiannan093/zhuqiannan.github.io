@@ -20,7 +20,7 @@ tags:
 | lsusb -tv            | 列出所有USB设备           |
 | lsmod                | 列出加载的内核模块        |
 | env                  | 查看环境变量              |
-|lspci | grep -i nvidia| 查看NVIDIA显卡
+|lspci \| grep -i nvidia| 查看NVIDIA显卡
 
 ---
 
