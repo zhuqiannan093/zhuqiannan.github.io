@@ -24,15 +24,17 @@ tags:
    如`intext:("kernel method" -"semi-supervised learning")`，搜索内容中包含`kernel mehtod`且不包含`semi-supervised learning`的论文
 7. author: 限定作者  
    如`author:"Jian Li" AND intitle:"Multi-class"`
-8. AND/&/+/,/空格都表示“与”关系
-9.  OR/|表示“或”关系
-10. NOT/-表示“非”关系
+8. `AND & + , `空格都表示“与”关系
+9. `OR |`表示“或”关系
+10. `NOT -`表示“非”关系
 11. 使用左侧选择时间限制及排序条件
 ## 2. 举例说明
 如下语句含义为搜索`nips、icml、TPAMI、JMLR、IJCAI、AAAI`中包含`kernel` 或者`model selection`的文章，并在左侧选择`2018年以来`进行时间限制
+
 ```
 ("kernel" OR "model selection") AND (site:nips.cc OR site:icml.cc OR source:"IEEE Transactions on Pattern Analysis and Machine Intelligence" OR site:jmlr.org OR site:ijcai.org OR site:aaai.org)
 ```
+
 ![](https://lijian.ac.cn/files/scholar_search_strick.png)
 ## 3. 机器学习领域定会网址(site)
 |刊物缩写|网址site|
