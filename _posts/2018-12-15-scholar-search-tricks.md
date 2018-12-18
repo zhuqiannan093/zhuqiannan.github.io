@@ -35,6 +35,7 @@ tags:
 
 ![](https://lijian.ac.cn/files/scholar_search_strick.png)
 ## 3. 机器学习领域定会网址(site)
+
 |刊物缩写|网址site|
 |:--|:--|
 |nips|nips.cc|
@@ -48,6 +49,7 @@ tags:
 |IEEE下刊物|ieeexplore.ieee.org|
 
 ## 4. 机器学习领域定会网址(source)
+
 |刊物缩写|刊物source|
 |:--|:--|
 |AI|Artificial Intelligence|

@@ -21,6 +21,7 @@ tags:
 | lsmod                | 列出加载的内核模块        |
 | env                  | 查看环境变量              |
 |lspci | grep -i nvidia| 查看NVIDIA显卡
+
 ---
 
 ## 2. 资源
