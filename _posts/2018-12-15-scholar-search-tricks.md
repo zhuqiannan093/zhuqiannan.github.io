@@ -28,7 +28,9 @@ tags:
 9. `OR |`表示“或”关系
 10. `NOT -`表示“非”关系
 11. 使用左侧选择时间限制及排序条件
+
 ## 2. 举例说明
+
 如下语句含义为搜索`nips、icml、TPAMI、JMLR、IJCAI、AAAI`中包含`random feature`或`kernel selection`的文章，并在左侧选择`2018年以来`进行时间限制
 >  ("random feature" OR "kernel selection") AND (site:nips.cc OR site:icml.cc OR source:"IEEE Transactions on Pattern Analysis and Machine Intelligence" OR site:jmlr.org OR site:ijcai.org OR site:aaai.org)
 
