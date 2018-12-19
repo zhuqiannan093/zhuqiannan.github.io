@@ -1,5 +1,5 @@
 ---
-title: 'Google学术搜索使用技巧'
+title: '学术搜索技巧'
 date: 2018-12-15
 permalink: /posts/2017/06/scholar-search-tricks/
 tags:
