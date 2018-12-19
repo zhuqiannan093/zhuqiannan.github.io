@@ -1,7 +1,7 @@
 ---
 title: '学术搜索技巧'
 date: 2018-12-15
-permalink: /posts/2017/06/scholar-search-tricks/
+permalink: /posts/2018/12/scholar-search-tricks/
 tags:
   - 中文
   - Google Scholar
