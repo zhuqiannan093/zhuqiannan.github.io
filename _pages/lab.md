@@ -13,7 +13,7 @@ author_profile: true
 
 |Name|Email|Position|Affiliation|
 |:---|:---|:---|:---|
-|[Weiping Wang](https://scholar.google.com/citations?user=dAJ23QEAAAAJ&hl=zh-CN)|wangweiping@iie.ac.cn|Professer<br> Assistant Director of IIE|IIE,CAS|
-|[Yong Liu](https://iie-liuyong.github.io)|liuyong@iie.ac.cn|Assistant Professer<br>Principal Investigator|IIE, CAS|
+|[Weiping Wang](https://scholar.google.com/citations?user=dAJ23QEAAAAJ&hl=zh-CN)|wangweiping@iie.ac.cn|Professor<br> Assistant Director of IIE|IIE,CAS|
+|[Yong Liu](https://iie-liuyong.github.io)|liuyong@iie.ac.cn|Associate Professor<br>Principal Investigator|IIE, CAS|
 |Rong Yin|yinrong@iie.ac.cn|PhD student|IIE, CAS|
 |[Jian Li](https://lijian.ac.cn)|me@lijian.ac.cn|PhD student|IIE, CAS|
