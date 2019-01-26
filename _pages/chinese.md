@@ -14,9 +14,10 @@ author_profile: true
 * 2015-2018，中科院信工所机器学习专业，博士研究生，导师：[王伟平](http://bkjy.ucas.ac.cn/index.php/szdw/ds/jsjxk/wlkjaq/4188-wwp)，指导老师：[刘勇](https://iie-liuyong.github.io)
 * 2011-2015，东北大学软件工程(英语)专业，本科生
 
-# 荣誉称号
+# 奖学金及荣誉称号
 * 2018年博士研究生国家奖学金
 * 2018年中国科学院大学“三好学生”
+* 2018年中国科学院信息工程研究所所长优秀奖
 
 # 论文列表
 <b>[Multi-Class Learning: From Theory to Algorithm](https://superlj666.github.io/publications/mc)</b> <br>
