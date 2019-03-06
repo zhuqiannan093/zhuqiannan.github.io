@@ -4,7 +4,9 @@ permalink: /cv&contact/
 author_profile: true
 ---
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](https://lijian.ac.cn/files/Curriculum_Vitae.pdf)
+[English CV [PDF]](https://lijian.ac.cn/files/english_cv.pdf)
+
+[Chinese CV [PDF]](https://lijian.ac.cn/files/chinese_cv.pdf)
 
 # Contact
 Institute of Information Engineering, Chinese Academy of Sciences<br>
