@@ -28,6 +28,7 @@ tags:
 9. `OR |`表示“或”关系
 10. `NOT -`表示“非”关系
 11. 使用左侧选择时间限制及排序条件
+12. 对于某网址对应多个期刊的情况，使用`source`而不是`site`进行界定。如TPAMI对应网址`ieee.org`有很多期刊，而其对应来源为`IEEE Transactions on Pattern Analysis and Machine Intelligence`
 
 ## 2. 举例说明
 
@@ -38,7 +39,7 @@ tags:
 ```
 
 ![](https://lijian.ac.cn/files/scholar_search_strick.png)
-## 3. 机器学习领域定会网址(site)
+## 3. 机器学习领域顶会网址(site)
 
 |刊物缩写|网址site|
 |:--|:--|
@@ -52,7 +53,7 @@ tags:
 |Springer下刊物|link.springer.com|
 |IEEE下刊物|ieeexplore.ieee.org|
 
-## 4. 机器学习领域定会网址(source)
+## 4. 机器学习领域顶会来源(source)
 
 |刊物缩写|刊物source|
 |:--|:--|
