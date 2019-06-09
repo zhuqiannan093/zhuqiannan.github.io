@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Home"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student in the [Institute of Information Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/), under the supervision of [Associate Prof. Yong Liu](https://iie-liuyong.github.io) and [Prof. Weiping Wang](https://scholar.google.com/citations?user=dAJ23QEAAAAJ&hl=zh-CN).
+I am currently a Ph.D. student in the [Institute of Information Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/), under the supervision of [Associate Prof. [Yong Liu](https://iie-liuyong.github.io/)](https://iie-liuyong.github.io) and [Prof. Weiping Wang](https://scholar.google.com/citations?user=dAJ23QEAAAAJ&hl=zh-CN).
 
 I received my Bachelor's Degree in [Northeastern University](http://english.neu.edu.cn/) in Shenyang, China, where I am a member of 2011 International class (English) in Software College.
 
@@ -16,12 +16,11 @@ I received my Bachelor's Degree in [Northeastern University](http://english.neu.
 My research interests mainly lie in large scale machine learning with theoretical guarantees and efficient algorithms, but also kernel selection, and graph-based semi-supervised learning. 
 In facts, my works focus on generalization analysis of those areas and building effective and scalable algorithmic tools for them, to channel theory and algorithms into applications.
 
-# Publications
-* ```diff + <b>New!</b>```
-**Jian Li**, Yong Liu, Rong Yin, Weiping Wang. "Multi-Class Learning using Unlabeled Samples: Theory and Algorithm" in the 28th International Joint Conference on Artificial Intelligence ([IJCAI 2019](https://ijcai19.org/)). To appear.
-* <font color=red><b>New!</b></font> **Jian Li**, Yong Liu, Rong Yin, Weiping Wang. "Approximate Manifold Regularization: Scalable Algorithm and Generalization Analysis" in the 28th International Joint Conference on Artificial Intelligence ([IJCAI 2019](https://ijcai19.org/)). To appear.
-* **Jian Li**, Yong Liu, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. "Multi-Class Learning: From Theory to Algorithm" in Advances in Neural Information Processing Systems 31 ([NIPS 2018](https://nips.cc/Conferences/2018)).
-* **Jian Li**, Yong Liu, Hailun Lin, Yinliang Yue, Weiping Wang. "Efficient Kernel Selection via Spectral Analysis" in Proceedings of the 26th International Joint Conference on Artificial Intelligence ([IJCAI 2017](https://www.ijcai-17.org/)).
+# News
+* <b>New!</b> **Jian Li**, [Yong Liu](https://iie-liuyong.github.io/), Rong Yin, Weiping Wang. "Multi-Class Learning using Unlabeled Samples: Theory and Algorithm". Accepted in the 28th International Joint Conference on Artificial Intelligence ([IJCAI 2019](https://ijcai19.org/)).
+* <b>New!</b> **Jian Li**, [Yong Liu](https://iie-liuyong.github.io/), Rong Yin, Weiping Wang. "Approximate Manifold Regularization: Scalable Algorithm and Generalization Analysis". Accepted in the 28th International Joint Conference on Artificial Intelligence ([IJCAI 2019](https://ijcai19.org/)).
+* **Jian Li**, [Yong Liu](https://iie-liuyong.github.io/), Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. "Multi-Class Learning: From Theory to Algorithm". Published in Advances in Neural Information Processing Systems 31 ([NIPS 2018](https://nips.cc/Conferences/2018)).
+* **Jian Li**, [Yong Liu](https://iie-liuyong.github.io/), Hailun Lin, Yinliang Yue, Weiping Wang. "Efficient Kernel Selection via Spectral Analysis". Published in Proceedings of the 26th International Joint Conference on Artificial Intelligence ([IJCAI 2017](https://www.ijcai-17.org/)).
 
 # Honors and Awards
 * CAS Presidential Scholarship, Chinese Academy of Sciences (CAS), 2019.

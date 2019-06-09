@@ -9,7 +9,8 @@ author_profile: true
 ## 2019
 * <b>Multi-Class Learning using Unlabeled Samples: Theory and Algorithm</b> <br>
 <b>Jian Li</b>, Yong Liu, Rong Yin, Weiping Wang. <i>Accepted in the 28th International Joint Conference on Artificial Intelligence (IJCAI 2019)</i>. <br>
-[[PDF]](https://superlj666.github.io/files/2019_cv_ssl.pdf.pdf)
+[[PDF]](https://superlj666.github.io/files/2019_MC_LRC_SSL.pdf)
+[[Code]](https://github.com/superlj666/Multi-Class-Learning-using-Unlabeled-Samples-Theory-and-Algorithm)
 
 * <b>Approximate Manifold Regularization: Scalable Algorithm and Generalization Analysis</b> <br>
 <b>Jian Li</b>, Yong Liu, Rong Yin, Weiping Wang. <i>Accepted in the 28th International Joint Conference on Artificial Intelligence (IJCAI 2019)</i>. <br>
@@ -18,8 +19,7 @@ author_profile: true
 
 * <b>Efficient Cross-Validation for Semi-Supervised Learning</b> <br>
 Yong Liu, <b>Jian Li</b>, Guangjun Wu, Lizhong Ding, Weiping Wang <i>ArXiv 2019</i>. <br>
-[[PDF]](https://superlj666.github.io/files/2019_LapRLS_Nystrom_PCG.pdf)
-[[Code]](https://github.com/superlj666/Approximate-Manifold-Regularization-Scalable-Algorithm-and-Generalization-Analysis)
+[[PDF]](https://superlj666.github.io/files/2019_cv_ssl.pdf)
 
 ## 2018
 * <b>Multi-Class Learning: From Theory to Algorithm</b> <br>
