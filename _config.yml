@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jian Li"
 title_separator          : "-"
-name                     : &name "Jian Li"
+name                     : &name "Jian Li (ćĺĽ)"
 description              : &description "PhD student, Institute of Information Engineering, Chinese Academy of Sciences"
 url                      : https://superlj666.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -89,7 +89,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "profile.php?id=100008003527316"
+  # facebook         : "profile.php?id=100008003527316"
   foursquare       :
   github           : "superlj666"
   google_plus      :
