@@ -17,7 +17,8 @@ My research interests mainly lie in large scale machine learning with theoretica
 In facts, my works focus on generalization analysis of those areas and building effective and scalable algorithmic tools for them, to channel theory and algorithms into applications.
 
 # Publications
-* ```diff +<b>New!</b>```
+* ```diff
++<b>New!</b>
 **Jian Li**, Yong Liu, Rong Yin, Weiping Wang. "Multi-Class Learning using Unlabeled Samples: Theory and Algorithm" in the 28th International Joint Conference on Artificial Intelligence ([IJCAI 2019](https://ijcai19.org/)). To appear.
 * <font color=red><b>New!</b></font> **Jian Li**, Yong Liu, Rong Yin, Weiping Wang. "Approximate Manifold Regularization: Scalable Algorithm and Generalization Analysis" in the 28th International Joint Conference on Artificial Intelligence ([IJCAI 2019](https://ijcai19.org/)). To appear.
 * **Jian Li**, Yong Liu, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. "Multi-Class Learning: From Theory to Algorithm" in Advances in Neural Information Processing Systems 31 ([NIPS 2018](https://nips.cc/Conferences/2018)).
