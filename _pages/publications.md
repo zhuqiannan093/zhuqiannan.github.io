@@ -18,7 +18,7 @@ author_profile: true
 [[Code]](https://github.com/superlj666/Approximate-Manifold-Regularization-Scalable-Algorithm-and-Generalization-Analysis)
 
 * <b>Efficient Cross-Validation for Semi-Supervised Learning</b> <br>
-Yong Liu, <b>Jian Li</b>, Guangjun Wu, Lizhong Ding, Weiping Wang <i>ArXiv 2019</i>. <br>
+Yong Liu, <b>Jian Li</b>, Guangjun Wu, Lizhong Ding, Weiping Wang <i>arXiv 2019</i>. <br>
 [[PDF]](https://superlj666.github.io/files/2019_cv_ssl.pdf)
 
 ## 2018
@@ -30,7 +30,7 @@ Yong Liu, <b>Jian Li</b>, Guangjun Wu, Lizhong Ding, Weiping Wang <i>ArXiv 2019<
 [[Sildes]](https://superlj666.github.io/files/mc-lrc-nips-Sildess.pdf)
 [[3-minute video]](https://youtu.be/mE_RpgWuKK8)
 * <b>Max-Diversity Distributed Learning: Theory and Algorithms</b> <br>
-Yong Liu, <b>Jian Li</b>, Weiping Wang. <i>ArXiv 2018</i>. <br>
+Yong Liu, <b>Jian Li</b>, Weiping Wang. <i>arXiv 2018</i>. <br>
 [[PDF]](https://superlj666.github.io/files/2018_max_diversity_dc.pdf)
 [[Code]](https://github.com/superlj666/Max-Diversity-Distributed-Learning-Theory-and-Algorithms)
 

@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student in the [Institute of Information Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/), under the supervision of [Associate Prof. [Yong Liu](https://iie-liuyong.github.io/)](https://iie-liuyong.github.io) and [Prof. Weiping Wang](https://scholar.google.com/citations?user=dAJ23QEAAAAJ&hl=zh-CN). <br>
-I received my Bachelor's Degree in [Northeastern University](http://english.neu.edu.cn/) in Shenyang, China, where I am a member of 2011 International class (English) in Software College.
+I am currently a Ph.D. student in the [Institute of Information Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/), under the supervision of Associate Prof. [Yong Liu](https://iie-liuyong.github.io/) and [Prof. Weiping Wang](https://scholar.google.com/citations?user=dAJ23QEAAAAJ&hl=zh-CN). <br>
+I received my Bachelor's degree in [Northeastern University](http://english.neu.edu.cn/) in Shenyang, China, where I am a member of 2011 International class (English) in Software College.
 
 # Research
-My research interests mainly lie in large scale machine learning with theoretical guarantees and efficient algorithms, but also kernel selection, and graph-based semi-supervised learning. 
+My research interests mainly lie in large scale machine learning with theoretical guarantees and efficient algorithms, but also kernel selection and graph-based semi-supervised learning. <br>
 In facts, my works focus on generalization analysis of those areas and building effective and scalable algorithmic tools for them, to channel theory and algorithms into applications.
 
 # News
