@@ -15,16 +15,16 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
 
-  - title: "My Lab"
-    url: /lab/
-
-  - title: "Blogs"
-    url: /year-archive/
+  #- title: "My Lab"
+  #  url: /lab/
   
   - title: "CV&Contact"
     url: /cv&contact/  
 
-  - title: "中文介绍"
-    url: /chinese/  
+  - title: "Blogs"
+    url: /year-archive/
+  
+  # - title: "中文介绍"
+  #  url: /chinese/  
   
   
