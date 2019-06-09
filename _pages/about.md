@@ -8,14 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-  <img src="https://superlj666.github.io/files/jianli.jpg?raw=true" alt="Photo" style="width: 450px;"/>
-</p>
+I am currently a Ph.D. student in the [Institute of Information Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/), under the supervision of [Associate Prof. Yong Liu](https://iie-liuyong.github.io) and [Prof. Weiping Wang](https://scholar.google.com/citations?user=dAJ23QEAAAAJ&hl=zh-CN).
 
-* I am a Ph.D. student in the [Institute of Information Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/), working with [Dr. Yong Liu](https://iie-liuyong.github.io) who is my research tutor. And My doctoral advisor is [Prof. Weiping Wang](https://scholar.google.com/citations?user=dAJ23QEAAAAJ&hl=zh-CN).
-* I received my Bachelor's Degree in [Northeastern University](http://english.neu.edu.cn/) in Shenyang, China, where I am a member of 2011 International class (English) in Software College.
-* My research interests lie in the general area of machine learning, particularly in large-scale machine learning, kernel selection, and graph-based semi-supervised learning. In facts, my works focus on generalization analysis of those areas and building effective and scalable algorithmic tools for them, to channel theory and algorithms into applications.
+I received my Bachelor's Degree in [Northeastern University](http://english.neu.edu.cn/) in Shenyang, China, where I am a member of 2011 International class (English) in Software College.
 
-# Recent News
-* Sep 5, 2018. A paper titled "Multi-Class Learning: From Theory to Algorithm" was accepted at [NIPS 2018](https://nips.cc/Conferences/2018).
-* April 4, 2017. A paper titled "Efficient Kernel Selection via Spectral Analysis" was accepted at [IJCAI 2017](https://www.ijcai-17.org/).
+# Research
+My research interests mainly lie in large scale machine learning with theoretical guarantees and efficient algorithms, but also kernel selection, and graph-based semi-supervised learning. 
+In facts, my works focus on generalization analysis of those areas and building effective and scalable algorithmic tools for them, to channel theory and algorithms into applications.
+
+# Publications
+* <font color=red><b>New!</b></font> **Jian Li**, Yong Liu, Rong Yin, Weiping Wang. "Multi-Class Learning using Unlabeled Samples: Theory and Algorithm" in the 28th International Joint Conference on Artificial Intelligence ([IJCAI 2019](https://ijcai19.org/)). To appear.
+* <font color=red><b>New!</b></font> **Jian Li**, Yong Liu, Rong Yin, Weiping Wang. "Approximate Manifold Regularization: Scalable Algorithm and Generalization Analysis" in the 28th International Joint Conference on Artificial Intelligence ([IJCAI 2019](https://ijcai19.org/)). To appear.
+* **Jian Li**, Yong Liu, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. "Multi-Class Learning: From Theory to Algorithm" in Advances in Neural Information Processing Systems 31 ([NIPS 2018](https://nips.cc/Conferences/2018)).
+* **Jian Li**, Yong Liu, Hailun Lin, Yinliang Yue, Weiping Wang. "Efficient Kernel Selection via Spectral Analysis" in Proceedings of the 26th International Joint Conference on Artificial Intelligence ([IJCAI 2017](https://www.ijcai-17.org/)).
+
+# Honors and Awards
+* CAS Presidential Scholarship, Chinese Academy of Sciences (CAS), 2019.
+* Merit Student, University of Chinese Academy of Sciences, 2019.
+* Doctoral National Scholarship, Ministry of Education of P.R.China, 2018.
+* IIE Presidential Scholarship, Institute of Information Engineering, CAS, 2018.
+* Merit Student, University of Chinese Academy of Sciences, 2018.
+
+<!---Activity and Service--->
+<!---Experience--->
