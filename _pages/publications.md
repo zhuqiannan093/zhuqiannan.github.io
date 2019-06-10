@@ -1,11 +1,8 @@
 ---
-title: "Publications"
+title: "Publications[Google Scholar Profile](https://scholar.google.com/citations?user=IAJpTqYAAAAJ&hl=zh-CN)"
 permalink: /publications/
 author_profile: true
 ---
-
-## [Google Scholar Profile](https://scholar.google.com/citations?user=IAJpTqYAAAAJ&hl=zh-CN)
-
 ## 2019
 * <b>Multi-Class Learning using Unlabeled Samples: Theory and Algorithm</b>. Accepted. <br>
 <b>Jian Li</b>, Yong Liu, Rong Yin, Weiping Wang. <i>In Proceedings of the 28th International Joint Conference on Artificial Intelligence (**IJCAI 2019**)</i>. To appear. <br>
