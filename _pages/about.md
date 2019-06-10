@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "About me"
+title: "About me([Curriculum Vitae](https://lijian.ac.cn/files/english_cv.pdf))"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# Short Bio ([Curriculum Vitae](https://lijian.ac.cn/files/english_cv.pdf))
 I am currently a Ph.D. student in the [Institute of Information Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/), under the supervision of Associate Prof. [Yong Liu](https://iie-liuyong.github.io/) and Prof. [ Weiping Wang](https://scholar.google.com/citations?user=dAJ23QEAAAAJ&hl=zh-CN). <br>
 I received my Bachelor's degree in [Northeastern University](http://english.neu.edu.cn/) in Shenyang, China, where I am a member of 2011 International class (English) in Software College. 
 
