@@ -20,6 +20,7 @@ author_profile: true
 * <b>Distributed Learning with Random Features</b>. Preprint (Submitted to NeurIPS 2019). <br>
 <b>Jian Li</b>, Yong Liu, Weiping Wang. <i>arXiv preprint arXiv:1906.03155, 2019</i>. <br>
 [[PDF]](https://superlj666.github.io/files/2019_dc_rf.pdf)
+[[Code]](https://github.com/superlj666/Distributed-Learning-with-Random-Features)
 
 * <b>Efficient Cross-Validation for Semi-Supervised Learning</b>. Preprint. <br>
 Yong Liu, <b>Jian Li</b>, Guangjun Wu, Lizhong Ding, Weiping Wang. <i>arXiv preprint arXiv:1902.04768, 2019</i>. <br>
