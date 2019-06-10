@@ -25,7 +25,7 @@ Yong Liu, <b>Jian Li</b>, Guangjun Wu, Lizhong Ding, Weiping Wang. <i>arXiv prep
 
 ## 2018
 * <b>Multi-Class Learning: From Theory to Algorithm</b>. Published. <br>
-<b>Jian Li</b>, Yong Liu, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. <i>Advances in Neural Information Processing Systems 31 (**NIPS 2018**)</i>. <br>
+<b>Jian Li</b>, Yong Liu, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. <i>Advances in Neural Information Processing Systems 31 (**NeurIPS 2018**)</i>. <br>
 [[PDF]](https://superlj666.github.io/files/2018_mc_lr.pdf)
 [[Code]](https://github.com/superlj666/Multi-Class-Learning-From-Theory-to-Algorithm)
 [[Poster]](https://superlj666.github.io/files/mc-lrc-nips-poster.pdf)
