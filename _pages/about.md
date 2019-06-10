@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. student in the [Institute of Information Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/), under the supervision of Associate Prof. [Yong Liu](https://iie-liuyong.github.io/) and Prof. [ Weiping Wang](https://scholar.google.com/citations?user=dAJ23QEAAAAJ&hl=zh-CN). <br>
+I am currently a Ph.D. student in the [Institute of Information Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/), under the supervision of Associate Prof. [Yong Liu](https://iie-liuyong.github.io/) and Prof. Weiping Wang. <br>
 I received my Bachelor's degree in [Northeastern University](http://english.neu.edu.cn/) in Shenyang, China, where I am a member of 2011 International class (English) in Software College. 
 
 # Research
