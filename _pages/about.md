@@ -11,7 +11,7 @@ I am currently a Ph.D. student in the [Institute of Information Engineering](htt
 I received my Bachelor's degree in [Hennan University](http://en.henu.edu.cn) in Henan, China.
 
 # Research
-My current research interests including \textbf{Machine Learning and Data Mining}, particularly in graph representation learning, knowledge graph reasoning and knowledge-aware application such as recommendation system.<br>
+My current research interests including Machine Learning and Data Mining, particularly in graph representation learning, knowledge graph reasoning and knowledge-aware application such as recommendation system.<br>
 I also interested in building the effective and scalable algorithms with the deep/reinforencement learning techniques.
 
 
