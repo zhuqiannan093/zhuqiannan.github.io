@@ -11,14 +11,15 @@ I am currently a Ph.D. student in the [Institute of Information Engineering](htt
 I received my Bachelor's degree in [Hennan University](http://en.henu.edu.cn) in Henan, China.
 
 # Research
-My research interests mainly lie in large scale machine learning with theoretical guarantees and efficient algorithms, but also kernel selection and graph-based semi-supervised learning. <br>
-In facts, my works focus on generalization analysis of those areas and building effective and scalable algorithmic tools for them, to channel theory and algorithms into applications.
+My current research interests including \textbf{Machine Learning and Data Mining}, particularly in graph representation learning, knowledge graph reasoning and knowledge-aware application such as recommendation system.<br>
+I also interested in building the effective and scalable algorithms with the deep/reinforencement learning techniques.
+
 
 # Publications
-* <b>New!</b> **Jian Li**, Yong Liu, Rong Yin, Weiping Wang. "Multi-Class Learning using Unlabeled Samples: Theory and Algorithm". Accepted in the 28th International Joint Conference on Artificial Intelligence ([IJCAI 2019](https://ijcai19.org/)).
-* <b>New!</b> **Jian Li**, Yong Liu, Rong Yin, Weiping Wang. "Approximate Manifold Regularization: Scalable Algorithm and Generalization Analysis". Accepted in the 28th International Joint Conference on Artificial Intelligence ([IJCAI 2019](https://ijcai19.org/)).
-* **Jian Li**, Yong Liu, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. "Multi-Class Learning: From Theory to Algorithm". Published in Advances in Neural Information Processing Systems 31 ([NeurIPS 2018](https://nips.cc/Conferences/2018)).
-* **Jian Li**, Yong Liu, Hailun Lin, Yinliang Yue, Weiping Wang. "Efficient Kernel Selection via Spectral Analysis". Published in Proceedings of the 26th International Joint Conference on Artificial Intelligence ([IJCAI 2017](https://www.ijcai-17.org/)).
+* <b>New!</b> **Qiannan Zhu**, Xiaofei Zhou, Jia Wu, Jianlong Tan, Li Guo. "Neighborhood-Aware Attentional Representation for Multilingual Knowledge Graphs". Accepted in the 28th International Joint Conference on Artificial Intelligence ([IJCAI 2019](https://ijcai19.org/)).
+* <b>New!</b> **Qiannan Zhu**, Xiaofei Zhou, Zeliang Song, Jianlong Tan, Li Guo. "DAN:Deep Attention Neural Network for News Recommendation". Published in Proceedings of the 33th AAAI Conference on Artificial Intelligence ([AAAI 2019](https://aaai.org/Conferences/AAAI-19/)).
+* Xiaofei Zhou, **Qiannan Zhu**, Ping Liu, Li Guo. "Learning Knowledge Embeddings by Combining Limit-based Scoring Loss". Published in the International Conference on Information and Knowledge Management ([CIKM 2017](http://www.cikmconference.org/CIKM2017/index.html)).
+* **Qiannan Zhu**, Xiaofei Zhou, Peng Zhang, Yong Shi. "A Neural Translating General Hyperplane for Knowledge Graph Embedding". Published in Journal of Computational Sciences (30)2019 ([JCS 2019](https://www.journals.elsevier.com/journal-of-computational-science)).
 
 # Honors and Awards
 * **CAS Presidential Scholarship**, Chinese Academy of Sciences (CAS), 2019.
