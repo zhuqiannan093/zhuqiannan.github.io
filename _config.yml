@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jian Li"
+title                    : "Qiannan Zhu"
 title_separator          : "-"
-name                     : &name "Jian Li"
-description              : &description "PhD student in Machine Learning. Institute of Information Engineering, CAS"
+name                     : &name "Qiannan Zhu"
+description              : &description "PhD student in Machine Learning. Institute of Information Engineering, Chinese Academy of Sciences"
 url                      : https://superlj666.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "superlj666/superlj666.github.io"
@@ -77,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jian Li"
+  name             : "Qiannan Zhu"
   avatar           : "jianli.jpg"
   bio              : "PhD student in Machine Learning. Institute of Information Engineering, CAS"
   location         : "Beijing, China"
