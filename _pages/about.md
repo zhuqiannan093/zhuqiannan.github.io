@@ -23,10 +23,9 @@ I also interested in building the effective and scalable algorithms with the dee
 
 # Honors and Awards
 * **CAS Presidential Scholarship**, Chinese Academy of Sciences (CAS), 2019.
-* **Merit Student**, University of Chinese Academy of Sciences, 2019.
-* **Doctoral National Scholarship**, Ministry of Education of P.R.China, 2018.
+* **Merit Student**, University of Chinese Academy of Sciences, 2018 &2017.
 * **IIE Presidential Scholarship**, Institute of Information Engineering, CAS, 2018.
-* **Merit Student**, University of Chinese Academy of Sciences, 2018.
+* **Laboratory Excellent Student Scholarship**, Institute of Information Engineering, CAS, 2018 \& 2017.
 
 <!---Activity and Service--->
 <!---Experience--->
