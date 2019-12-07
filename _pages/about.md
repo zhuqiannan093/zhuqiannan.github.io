@@ -16,7 +16,8 @@ I also interested in building the effective and scalable algorithms with the dee
 
 
 # Publications
-* <b>New!</b> **Qiannan Zhu**, Xiaofei Zhou, Jia Wu, Jianlong Tan, Li Guo. "Neighborhood-Aware Attentional Representation for Multilingual Knowledge Graphs". Accepted in the 28th International Joint Conference on Artificial Intelligence ([IJCAI 2019](https://ijcai19.org/)).
+* <b>New!</b> **Qiannan Zhu**, Xiaofei Zhou, Jia Wu, Jianlong Tan, Li Guo. "A Knowledge-Aware Reasoning Network for Recommendation". Accepted in the 34th AAAI Conference on Artificial Intelligence (AAAI 2020).
+* **Qiannan Zhu**, Xiaofei Zhou, Jia Wu, Jianlong Tan, Li Guo. "Neighborhood-Aware Attentional Representation for Multilingual Knowledge Graphs". Accepted in the 28th International Joint Conference on Artificial Intelligence ([IJCAI 2019](https://ijcai19.org/)).
 * <b>New!</b> **Qiannan Zhu**, Xiaofei Zhou, Zeliang Song, Jianlong Tan, Li Guo. "DAN:Deep Attention Neural Network for News Recommendation". Published in Proceedings of the 33th AAAI Conference on Artificial Intelligence ([AAAI 2019](https://aaai.org/Conferences/AAAI-19/)).
 * <b>New!</b> **Qiannan Zhu**, Xiaofei Zhou, Jianlong Tan, Li Guo. "Knowledge Base Reasoning with Convolutional-based Recurrent Neural Networks". Under **Minor Revision** on Transactions on Knowledge and Data Engineering ([TKDE 2019](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69/)).
 * Xiaofei Zhou, **Qiannan Zhu**, Ping Liu, Li Guo. "Learning Knowledge Embeddings by Combining Limit-based Scoring Loss". Published in the International Conference on Information and Knowledge Management ([CIKM 2017](http://www.cikmconference.org/CIKM2017/index.html)).
