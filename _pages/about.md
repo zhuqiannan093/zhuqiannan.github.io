@@ -24,6 +24,7 @@ I also interested in building the effective and scalable algorithms with the dee
 * **Qiannan Zhu**, Xiaofei Zhou, Peng Zhang, Yong Shi. "A Neural Translating General Hyperplane for Knowledge Graph Embedding". Published in Journal of Computational Sciences (30)2019 ([JCS 2019](https://www.journals.elsevier.com/journal-of-computational-science)).
 
 # Honors and Awards
+* **Zhu Li Yuehua Outstanding Ph.D. student Scholarship**, Chinese Academy of Sciences (CAS), 2019.
 * **CAS Presidential Scholarship**, Chinese Academy of Sciences (CAS), 2019.
 * **Merit Student**, University of Chinese Academy of Sciences, 2018.
 * **IIE Presidential Scholarship**, Institute of Information Engineering, CAS, 2018.
