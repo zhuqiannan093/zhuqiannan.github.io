@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am currently a postdoctoral in Gaoling school of Artificial Intellgence  
 I am currently a Ph.D. student in the [Institute of Information Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/), under the supervision of Associate Prof. Xiaofei Zhou and Prof. Jianlong Tan. <br>
 I received my Bachelor's degree in [Hennan University](http://en.henu.edu.cn) in Henan, China.
 
