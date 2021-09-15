@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-* I am currently a postdoctoral in [Gaoling school of Artificial Intellgence](http://ai.ruc.edu.cn/index.htm), under the supervision of Prof. [Zhicheng Dou](http://ai.ruc.edu.cn/academicfaculty/teachers/20190813022.html)<br>
-* I am received a Ph.D. student in the [Institute of Information Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/), under the supervision of Associate Prof. Xiaofei Zhou and Prof. Jianlong Tan. <br>
-* I received my Bachelor's degree in [Hennan University](http://en.henu.edu.cn) in Henan, China.
+* I am currently a postdoctoral in [Gaoling school of Artificial Intellgence](http://ai.ruc.edu.cn/index.htm), Renmin University of China, under the supervision of Prof. [Zhicheng Dou](http://ai.ruc.edu.cn/academicfaculty/teachers/20190813022.html)<br>
+* I have received a Ph.D. student in the [Institute of Information Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/), under the supervision of Associate Prof. Xiaofei Zhou and Prof. Jianlong Tan. <br>
+* I have received my Bachelor's degree in [Hennan University](http://en.henu.edu.cn) in Henan, China.
 
 # Research
 My current research interests including Web Mining and Data Mining, particularly in graph representation learning, knowledge graph reasoning, recommendation system and information retrieval.
@@ -26,6 +26,7 @@ I also interested in building the effective and scalable algorithms with the dee
 * <b></b> Xiaofei Zhou, **Qiannan Zhu**, Ping Liu, Li Guo. "Learning Knowledge Embeddings by Combining Limit-based Scoring Loss". Accepted in in the International Conference on Information and Knowledge Management ([CIKM 2017](http://www.cikmconference.org/CIKM2017/index.html)).
 * <b></b> **Qiannan Zhu**, Xiaofei Zhou, Peng Zhang, Yong Shi. "A Neural Translating General Hyperplane for Knowledge Graph Embedding". Published in Journal of Computational Sciences (30)2019 ([JCS 2019](https://www.journals.elsevier.com/journal-of-computational-science)).
 * <b></b> **Qiannan Zhu**, Xiaofei Zhou, Yuwen Wu, Ping Liu, Li Guo. "Multilingual knowledge graph embeddings with neural networks". Accepted in the International Conference on Data Service.
+* <b></b> **Qiannan Zhu**, Xiaofei Zhou, JianLong Tan, Ping Liu, Li Guo. "Learning knowledge graph embeddings via generalized hyperplanes". Accepted in the International Conference on Computational Science.
 
 # Honors and Awards
 * **Zhu Li Yuehua Outstanding Ph.D. student Scholarship**, Chinese Academy of Sciences (CAS), 2019.
