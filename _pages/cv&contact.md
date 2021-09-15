@@ -3,10 +3,12 @@ title: "Curriculum Vitae"
 permalink: /cv&contact/
 author_profile: true
 ---
+# Qiannan zhu, 朱倩男 in Chinese
 
-[English CV [PDF]](https://lijian.ac.cn/files/english_cv.pdf)
 
-[Chinese CV [PDF]](https://lijian.ac.cn/files/chinese_cv.pdf)
+<!-- [English CV [PDF]](https://lijian.ac.cn/files/english_cv.pdf)
+
+[Chinese CV [PDF]](https://lijian.ac.cn/files/chinese_cv.pdf) -->
 
 # Contact
 Gaoling School of Artificial Intelligence, Renmin University of China<br>
