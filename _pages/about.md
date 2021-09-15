@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-* I am currently a postdoctoral in [Gaoling school of Artificial Intellgence](http://ai.ruc.edu.cn/index.htm), Renmin University of China, under the supervision of Prof. [Zhicheng Dou](http://ai.ruc.edu.cn/academicfaculty/teachers/20190813022.html)<br>
+* I am currently a postdoctoral in [Gaoling school of Artificial Intellgence](http://ai.ruc.edu.cn/index.htm), Renmin University of China, under the supervision of Prof. [Zhicheng Dou].(http://ai.ruc.edu.cn/academicfaculty/teachers/20190813022.html)<br>
 * I have received a Ph.D. student in the [Institute of Information Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/), under the supervision of Associate Prof. Xiaofei Zhou and Prof. Jianlong Tan. <br>
 * I have received my Bachelor's degree in [Hennan University](http://en.henu.edu.cn) in Henan, China.
 
