@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qiannan Zhu"
+title                    : "Jian Li"
 title_separator          : "-"
-name                     : &name "Qiannan Zhu"
-description              : &description "Postdoctoral in Gaoling school of Artificial Intellgence"
-url                      : https://zhuqiannan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jian Li"
+description              : &description "PhD student in Machine Learning. Institute of Information Engineering, CAS"
+url                      : https://superlj666.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhuqiannan/zhuqiannan.github.io"
+repository               : "superlj666/superlj666.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qiannan Zhu"
-  avatar           : "qiannan.jpeg"
-  bio              : "Postdoctoral in Gaoling school of Artificial Intellgence"
+  name             : "Jian Li"
+  avatar           : "avatar.png" # "jianli.jpg" #
+  bio              : "PhD student in Machine Learning. Institute of Information Engineering, CAS"
   location         : "Beijing, China"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=IAJpTqYAAAAJ"
-  email            : "zhuqiannan@ruc.edu.cn"
+  email            : "me@lijian.ac.cn"
   uri              : 
   bitbucket        :
   codepen          :
@@ -91,12 +91,12 @@ author:
   flickr           :
   # facebook         : "profile.php?id=100008003527316"
   foursquare       :
-  github           : "zhuqiannan"
+  github           : "superlj666"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         :
+  linkedin         : "superlj666"
   orcid            : 
   pinterest        :
   soundcloud       :
