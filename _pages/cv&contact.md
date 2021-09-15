@@ -5,7 +5,6 @@ author_profile: true
 ---
 <br>
 <br>
-<br>
 # Qiannan zhu, 朱倩男 in Chinese
 Postdoctoral in Gaoling School of Artificial Intelligence, Renmin University of China, followed by Zhicheng Dou. <br>
 
@@ -13,7 +12,7 @@ Postdoctoral in Gaoling School of Artificial Intelligence, Renmin University of 
 * Postdoctoral, Renmin University of China, since 2021.3.<br>
 * PHD, Institute of Information Engineering, CAS, 2018.3-2020.9<br>
 * Master, Institute of Information Engineering, CAS, 2015.9-2018.3<br>
-* <b> Short Term Work Experience </b> <br>
+* <b> Short Term Work Experience: </b> <br>
   ** Senior Algorithm Engineer, Alibaba, 2020.9-2021.2.<br>
 
 
