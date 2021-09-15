@@ -1,11 +1,11 @@
 ---
-title: "Publications ([Google Scholar Profile](https://scholar.google.com/citations?user=IAJpTqYAAAAJ&hl=zh-CN))"
+title: "Publications ([Google Scholar Profile](https://scholar.google.com.tw/citations?hl=zh-CN&user=NosrkdgAAAAJ))"
 permalink: /publications/
 author_profile: true
 ---
-## 2019
-* <b>Multi-Class Learning using Unlabeled Samples: Theory and Algorithm</b>. <br>
-<b>Jian Li</b>, Yong Liu, Rong Yin, Weiping Wang. <i>In Proceedings of the 28th International Joint Conference on Artificial Intelligence (**IJCAI 2019**)</i>. To appear. <br>
+## 2021
+* <b>Knowledge Graph Embedding by Double Limit Scoring Loss</b>. <br>
+Xiaofei Zhou, Lingfeng Niu, <b>Qiannan Zhu</b>, Xingquan Zhu, Ping Liu, Jianlong Tan, Li Guo  <i>IEEE Transactions on Knowledge and Data Engineering</i>.  <br>
 [[PDF]](https://superlj666.github.io/files/2019_MC_LRC_SSL.pdf)
 [[Code]](https://github.com/superlj666/Multi-Class-Learning-using-Unlabeled-Samples-Theory-and-Algorithm)
 
