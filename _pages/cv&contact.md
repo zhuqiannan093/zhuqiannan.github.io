@@ -1,5 +1,5 @@
 ---
-title: "Curriculum Vitae"
+<!-- title: "Curriculum Vitae" -->
 permalink: /cv&contact/
 author_profile: true
 ---
