@@ -25,3 +25,13 @@ author_profile: true
 <b>Qiannan Zhu, Xiaofei Zhou, Jia Wu, Jianlong Tan, Li Guo. “Neighborhood-Aware Attentional Representation for Multilingual Knowledge Graphs”, IJCAI 2019.<br>
 <b>Qiannan Zhu, Xiaofei Zhou, Zeliang Song, Jianlong Tan, Li Guo. “DAN:Deep Attention Neural Network for News Recommendation”, AAAI2019<br>
 <b>Xiaofei Zhou, Qiannan Zhu, Ping Liu, Li Guo. “Learning Knowledge Embeddings by Combining Limit-based Scoring Loss”,CIKM 2017.
+
+<!--   Xiaofei Zhou, Lingfeng Niu, Qiannan Zhu, Xingquan Zhu, Ping Liu, Jianlong Tan, Li Guo. "Knowledge Graph Embedding by Double Limit Scoring Loss". Accepted in IEEE Transactions on Knowledge and Data Engineering(TKDE 2021).
+Qiannan Zhu, Xiaofei Zhou, Jia Wu, Jianlong Tan, Li Guo. "A Knowledge-Aware Reasoning Network for Recommendation". Accepted in the 34th AAAI Conference on Artificial Intelligence (AAAI 2020).
+Yue Yuan, Xiaofei Zhou, Shirui Pan, Qiannan Zhu, Zeliang Song, Li Guo. "A Relation-Specific Attention Network for Joint Entity and Relation Extraction". Accepted in the 29th International Joint Conference on Artificial Intelligence (IJCAI 2020).
+Qiannan Zhu, Xiaofei Zhou, Jianlong Tan, Li Guo. "Knowledge Base Reasoning with Convolutional-based Recurrent Neural Networks". Accepted in IEEE Transactions on Knowledge and Data Engineering(TKDE 2019).
+Qiannan Zhu, Xiaofei Zhou, Jia Wu, Jianlong Tan, Li Guo. "Neighborhood-Aware Attentional Representation for Multilingual Knowledge Graphs". Accepted in the 28th International Joint Conference on Artificial Intelligence (IJCAI 2019).
+Qiannan Zhu, Xiaofei Zhou, Zeliang Song, Jianlong Tan, Li Guo. "DAN:Deep Attention Neural Network for News Recommendation". Accepted in Proceedings of the 33th AAAI Conference on Artificial Intelligence (AAAI 2019).
+Xiaofei Zhou, Qiannan Zhu, Ping Liu, Li Guo. "Learning Knowledge Embeddings by Combining Limit-based Scoring Loss". Accepted in in the International Conference on Information and Knowledge Management (CIKM 2017).
+Qiannan Zhu, Xiaofei Zhou, Peng Zhang, Yong Shi. "A Neural Translating General Hyperplane for Knowledge Graph Embedding". Published in Journal of Computational Sciences (30)2019 (JCS 2019).
+Qiannan Zhu, Xiaofei Zhou, Yuwen Wu, Ping Liu, Li Guo. "Multilingual knowledge graph embeddings with neural networks". Accepted in the International Conference on Data Service -->
