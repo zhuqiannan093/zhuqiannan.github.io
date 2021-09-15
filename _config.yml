@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jian Li"
+title                    : "Qiannan Zhu"
 title_separator          : "-"
-name                     : &name "Jian Li"
+name                     : &name "Qiannan Zhu"
 description              : &description "PhD student in Machine Learning. Institute of Information Engineering, CAS"
-url                      : https://superlj666.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhuqiannan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "superlj666/superlj666.github.io"
+repository               : "zhuqiannan/zhuqiannan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jian Li"
-  avatar           : "avatar.png" # "jianli.jpg" #
+  name             : "Qiannan Zhu"
+  avatar           : "qiannan.jpeg" # "jianli.jpg" #
   bio              : "PhD student in Machine Learning. Institute of Information Engineering, CAS"
   location         : "Beijing, China"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=IAJpTqYAAAAJ"
-  email            : "me@lijian.ac.cn"
+  email            : "zhuqiannan@ruc.edu.cn"
   uri              : 
   bitbucket        :
   codepen          :
@@ -91,12 +91,12 @@ author:
   flickr           :
   # facebook         : "profile.php?id=100008003527316"
   foursquare       :
-  github           : "superlj666"
+  github           : "zhuqiannan"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : "superlj666"
+  linkedin         : "zhuqiannan"
   orcid            : 
   pinterest        :
   soundcloud       :
