@@ -11,7 +11,7 @@ title                    : "Qiannan Zhu"
 title_separator          : "-"
 name                     : &name "Qiannan Zhu"
 description              : &description "Postdoctoral in Gaoling school of Artificial Intellgence"
-url                      : "https://zhuqiannan.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhuqiannan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhuqiannan/zhuqiannan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ author:
   bio              : "Postdoctoral in Gaoling school of Artificial Intellgence"
   location         : "Beijing, China"
   employer         : 
-  #googlescholar    : "https://scholar.google.com/citations?hl=en&user=IAJpTqYAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=IAJpTqYAAAAJ"
   email            : "zhuqiannan@ruc.edu.cn"
   uri              : 
   bitbucket        :
