@@ -23,9 +23,9 @@ I also interested in building the effective and scalable algorithms with the dee
 * <b></b> **Qiannan Zhu**, Xiaofei Zhou, Jianlong Tan, Li Guo. "Knowledge Base Reasoning with Convolutional-based Recurrent Neural Networks". Accepted in IEEE Transactions on Knowledge and Data Engineering(TKDE 2019).
 * <b></b> **Qiannan Zhu**, Xiaofei Zhou, Jia Wu, Jianlong Tan, Li Guo. "Neighborhood-Aware Attentional Representation for Multilingual Knowledge Graphs". Accepted in the 28th International Joint Conference on Artificial Intelligence ([IJCAI 2019](https://ijcai19.org/)).
 * <b></b> **Qiannan Zhu**, Xiaofei Zhou, Zeliang Song, Jianlong Tan, Li Guo. "DAN:Deep Attention Neural Network for News Recommendation". Accepted in Proceedings of the 33th AAAI Conference on Artificial Intelligence ([AAAI 2019](https://aaai.org/Conferences/AAAI-19/)).
-* Xiaofei Zhou, **Qiannan Zhu**, Ping Liu, Li Guo. "Learning Knowledge Embeddings by Combining Limit-based Scoring Loss". Accepted in in the International Conference on Information and Knowledge Management ([CIKM 2017](http://www.cikmconference.org/CIKM2017/index.html)).
-* **Qiannan Zhu**, Xiaofei Zhou, Peng Zhang, Yong Shi. "A Neural Translating General Hyperplane for Knowledge Graph Embedding". Published in Journal of Computational Sciences (30)2019 ([JCS 2019](https://www.journals.elsevier.com/journal-of-computational-science)).
-*  **Qiannan Zhu**, Xiaofei Zhou, Yuwen Wu, Ping Liu, Li Guo. "Multilingual knowledge graph embeddings with neural networks". Accepted in the International Conference on Data Service
+* <b></b> Xiaofei Zhou, **Qiannan Zhu**, Ping Liu, Li Guo. "Learning Knowledge Embeddings by Combining Limit-based Scoring Loss". Accepted in in the International Conference on Information and Knowledge Management ([CIKM 2017](http://www.cikmconference.org/CIKM2017/index.html)).
+* <b></b> **Qiannan Zhu**, Xiaofei Zhou, Peng Zhang, Yong Shi. "A Neural Translating General Hyperplane for Knowledge Graph Embedding". Published in Journal of Computational Sciences (30)2019 ([JCS 2019](https://www.journals.elsevier.com/journal-of-computational-science)).
+* <b></b> **Qiannan Zhu**, Xiaofei Zhou, Yuwen Wu, Ping Liu, Li Guo. "Multilingual knowledge graph embeddings with neural networks". Accepted in the International Conference on Data Service
 
 # Honors and Awards
 * **Zhu Li Yuehua Outstanding Ph.D. student Scholarship**, Chinese Academy of Sciences (CAS), 2019.
