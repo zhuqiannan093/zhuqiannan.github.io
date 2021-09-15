@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Qiannan Zhu"
 title_separator          : "-"
 name                     : &name "Qiannan Zhu"
-description              : &description "PhD student in Machine Learning. Institute of Information Engineering, Chinese Academy of Sciences"
+description              : &description "Postdoctoral in Gaoling school of Artificial Intellgence"
 url                      : https://zhuqiannan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhuqiannan/zhuqiannan.github.io"
@@ -79,11 +79,11 @@ analytics:
 author:
   name             : "Qiannan Zhu"
   avatar           : "qiannan.jpg"
-  bio              : "PhD student in Machine Learning. Institute of Information Engineering, CAS"
+  bio              : "Postdoctoral in Gaoling school of Artificial Intellgence, under the supervision of Prof. Zhicheng Dou"
   location         : "Beijing, China"
   employer         : 
   #googlescholar    : "https://scholar.google.com/citations?hl=en&user=IAJpTqYAAAAJ"
-  email            : "zhuqiannan@iie.ac.cn"
+  email            : "zhuqiannan@ruc.edu.cn"
   uri              : 
   bitbucket        :
   codepen          :
