@@ -5,41 +5,50 @@ author_profile: true
 ---
 ## 2021
 * <b>Knowledge Graph Embedding by Double Limit Scoring Loss</b>. <br>
-Xiaofei Zhou, Lingfeng Niu, <b>Qiannan Zhu</b>, Xingquan Zhu, Ping Liu, Jianlong Tan, Li Guo  <i>IEEE Transactions on Knowledge and Data Engineering</i>.  <br>
-[[PDF]](https://superlj666.github.io/files/2019_MC_LRC_SSL.pdf)
-[[Code]](https://github.com/superlj666/Multi-Class-Learning-using-Unlabeled-Samples-Theory-and-Algorithm)
+Xiaofei Zhou, Lingfeng Niu, <b>Qiannan Zhu</b>, Xingquan Zhu, Ping Liu, Jianlong Tan, Li Guo  <i>IEEE Transactions on Knowledge and Data Engineering(**TKDE 2021**)</i>.  <br>
+<!-- [[PDF]](https://superlj666.github.io/files/2019_MC_LRC_SSL.pdf)
+[[Code]](https://github.com/superlj666/Multi-Class-Learning-using-Unlabeled-Samples-Theory-and-Algorithm) -->
 
-* <b>Approximate Manifold Regularization: Scalable Algorithm and Generalization Analysis</b>. <br>
-<b>Jian Li</b>, Yong Liu, Rong Yin, Weiping Wang. <i>In Proceedings of the 28th International Joint Conference on Artificial Intelligence (**IJCAI 2019**)</i>. To appear.<br>
-[[PDF]](https://superlj666.github.io/files/2019_LapRLS_Nystrom_PCG.pdf)
-[[Code]](https://github.com/superlj666/Approximate-Manifold-Regularization-Scalable-Algorithm-and-Generalization-Analysis)
-
-* <b>Distributed Learning with Random Features</b>. Preprint (Submitted to NeurIPS 2019). <br>
-<b>Jian Li</b>, Yong Liu, Weiping Wang. <i>arXiv preprint arXiv:1906.03155, 2019</i>. <br>
-[[PDF]](https://superlj666.github.io/files/2019_dc_rf.pdf)
+## 2020
+* <b>A knowledge-aware attentional reasoning network for recommendation</b>. <br>
+<b>Qiannan Zhu</b>, Xiaofei Zhou, Jia Wu, Jianlong Tan, Li Guo.<i>In Proceedings of the 34th AAAI Conference on Artificial Intelligence (**AAAI 2020**)</i>. <br>
+<!-- [[PDF]](https://superlj666.github.io/files/2019_dc_rf.pdf)
 [[Code]](https://github.com/superlj666/Distributed-Learning-with-Random-Features)
-
-* <b>Efficient Cross-Validation for Semi-Supervised Learning</b>. Preprint. <br>
-Yong Liu, <b>Jian Li</b>, Guangjun Wu, Lizhong Ding, Weiping Wang. <i>arXiv preprint arXiv:1902.04768, 2019</i>. <br>
-[[PDF]](https://superlj666.github.io/files/2019_cv_ssl.pdf)
-
-## 2018
-* <b>Multi-Class Learning: From Theory to Algorithm</b>. Published. <br>
-<b>Jian Li</b>, Yong Liu, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. <i>Advances in Neural Information Processing Systems 31 (**NeurIPS 2018**)</i>. <br>
 [[PDF]](https://superlj666.github.io/files/2018_mc_lr.pdf)
 [[Code]](https://github.com/superlj666/Multi-Class-Learning-From-Theory-to-Algorithm)
 [[Poster]](https://superlj666.github.io/files/mc-lrc-nips-poster.pdf)
 [[Sildes]](https://superlj666.github.io/files/mc-lrc-nips-Sildess.pdf)
-[[3-minute video]](https://youtu.be/mE_RpgWuKK8)
-* <b>Max-Diversity Distributed Learning: Theory and Algorithms</b>. Preprint. <br>
-Yong Liu, <b>Jian Li</b>, Weiping Wang. <i>arXiv preprint arXiv:1812.07738, 2018</i>. <br>
-[[PDF]](https://superlj666.github.io/files/2018_max_diversity_dc.pdf)
-[[Code]](https://github.com/superlj666/Max-Diversity-Distributed-Learning-Theory-and-Algorithms)
+[[3-minute video]](https://youtu.be/mE_RpgWuKK8) -->
+
+
+* <b>A Relation-Specific Attention Network for Joint Entity and Relation Extraction.</b>. <br>
+Yue Yuan, Xiaofei Zhou, Shirui Pan, <b>Qiannan Zhu</b>, Zeliang Song, Li Guo. <i>In Proceedings of the 29th International Joint Conference on Artificial Intelligence (**IJCAI 2020**)</i>. <br>
+
+
+
+## 2019
+* <b>DAN: Deep attention neural network for news recommendation</b>. <br>
+<b>Qiannan Zhu</b>, Xiaofei Zhou, Zeliang Song, Jianlong Tan, Li Guo. <i>In Proceedings of the 33th AAAI Conference on Artificial Intelligence (**AAAI 2020**)</i>. <br>
+
+* <b>Neighborhood-Aware Attentional Representation for Multilingual Knowledge Graphs.</b>. <br>
+<b>Qiannan Zhu</b>, Xiaofei Zhou, Jia Wu, Jianlong Tan, Li Guo. <i>In Proceedings of the 28th International Joint Conference on Artificial Intelligence (**IJCAI 2020**)</i>. <br>
+
+* <b>Knowledge Base Reasoning with Convolutional-based Recurrent Neural Networks.</b>. <br>
+<b>Qiannan Zhu</b>, Qiannan Zhu, Xiaofei Zhou, Jianlong Tan, Li Guo. <i>IEEE Transactions on Knowledge and Data Engineering(**TKDE 2019**)</i>. <br>
+
+* <b>A neural translating general hyperplane for knowledge graph embedding.</b>. <br>
+<b>Qiannan Zhu</b>, Xiaofei Zhou, Peng Zhang, Yong Shi. <i>Journal of computational science</i>. <br>
+
+* <b>Multilingual knowledge graph embeddings with neural networks.</b>. <br>
+<b>Qiannan Zhu</b>, Xiaofei Zhou, Yuwen Wu, Ping Liu, Li Guo. <i>In Proceedings of the International Conference on Data Service</i>. <br>
+
+## 2018
+* <b>Learning knowledge graph embeddings via generalized hyperplanes</b>. <br>
+<b>Qiannan Zhu</b>, Xiaofei Zhou, JianLong Tan, Ping Liu, Li Guo. <i>In Proceedings of the International Conference on Computational Science</i>. <br>
 
 
 ## 2017
-* <b>Efficient kernel selection via spectral analysis</b>. Published. <br>
-<b>Jian Li</b>, Yong Liu, Hailun Lin, Yinliang Yue, Weiping Wang. <i>In Proceedings of the 26th International Joint Conference on Artificial Intelligence (**IJCAI 2017**) </i>. <br>
-[[PDF]](https://superlj666.github.io/files/2017_kernel_selection.pdf)
-[[Poster]](https://superlj666.github.io/files/ijicai-poster-0816.pdf)
-[[Sildes]](https://superlj666.github.io/files/IJCAI_presentation.pptx)
+* <b>Learning knowledge embeddings by combining limit-based scoring loss</b>. <br>
+Xiaofei Zhou, <b>Qiannan Zhu</b>, Ping Liu, Li Guo. <i>Proceedings of the 2017 ACM on Conference on Information and Knowledge Management</i>. <br>
+
+
