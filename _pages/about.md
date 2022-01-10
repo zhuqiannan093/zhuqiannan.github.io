@@ -17,7 +17,7 @@ I also interested in building the effective and scalable algorithms with the dee
 
 # Publications
 
-* <b></b> Jianhuan Zhuo, <br>Qiannan Zhu*</br>, Yinliang Yue, Yuhong Zhao, Weisi Han. "A Neighborhood-Attention Fine-grained Entity Typing for Knowledge Graph Completion". Accepted in the 15th International Conference on Web Search and Data Mining (**WSDM 2022**)
+* <b></b> Jianhuan Zhuo, <b>Qiannan Zhu*</b>, Yinliang Yue, Yuhong Zhao, Weisi Han. "A Neighborhood-Attention Fine-grained Entity Typing for Knowledge Graph Completion". Accepted in the 15th International Conference on Web Search and Data Mining (**WSDM 2022**)
 * <b></b> Ren Li, Yanan Cao, **Qiannan Zhu**, Guanqun Bi, Fang Fang, Yi Liu, Qian Li. "How Does Knowledge Graph Embedding Extrapolate to Unseen Data: a Semantic Evidence Views". Accepted in the 36th AAAI Conference on Artificial Intelligence (**AAAI 2022**)
 * <b></b> Xiaofei Zhou, Lingfeng Niu, **Qiannan Zhu**, Xingquan Zhu, Ping Liu, Jianlong Tan, Li Guo. "Knowledge Graph Embedding by Double Limit Scoring Loss". Accepted in IEEE Transactions on Knowledge and Data Engineering(TKDE 2021).
 * <b></b> **Qiannan Zhu**, Xiaofei Zhou, Jia Wu, Jianlong Tan, Li Guo. "A Knowledge-Aware Reasoning Network for Recommendation". Accepted in the 34th AAAI Conference on Artificial Intelligence (AAAI 2020).
