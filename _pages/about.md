@@ -9,7 +9,6 @@ redirect_from:
 ---
 * I am currently a postdoctoral in [Gaoling school of Artificial Intellgence](http://ai.ruc.edu.cn/index.htm), Renmin University of China, under the supervision of Prof. [Zhicheng Dou](http://ai.ruc.edu.cn/academicfaculty/teachers/20190813022.html).<br>
 * I have received a Ph.D. student in the [Institute of Information Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/), under the supervision of Associate Prof. Xiaofei Zhou and Prof. Jianlong Tan. <br>
-* I have received my Bachelor's degree in [Hennan University](http://en.henu.edu.cn) in Henan, China.
 
 # Research
 My current research interests including Web Mining and Data Mining, particularly in graph representation learning, knowledge graph reasoning, recommendation system and information retrieval.
@@ -18,10 +17,8 @@ I also interested in building the effective and scalable algorithms with the dee
 
 # Publications
 
-* <b>A Neighborhood-Attention Fine-grained Entity Typing for Knowledge Graph Completion </b>. <br>
-Jianhuan Zhuo, <b>Qiannan Zhu*</b>, Yinliang Yue, Yuhong Zhao, Weisi Han<i>In Proceedings of the 15th  International Conference on Web Search and Data Mining (**WSDM 2022**)</i>.  <br>
-* <b>How Does Knowledge Graph Embedding Extrapolate to Unseen Data: a Semantic Evidence Views</b>. <br>
-Ren Li, Yanan Cao, <b>Qiannan Zhu</b>, Guanqun Bi, Fang Fang, Yi Liu, Qian Li <i>In Proceedings of the 36th AAAI Conference on Artificial Intelligence (**AAAI 2022**)</i>.  <br>
+* <b></b> Jianhuan Zhuo, **Qiannan Zhu**, Yinliang Yue, Yuhong Zhao, Weisi Han. "A Neighborhood-Attention Fine-grained Entity Typing for Knowledge Graph Completion". Accepted in the 15th International Conference on Web Search and Data Mining (**WSDM 2022**)
+* <b></b> Ren Li, Yanan Cao, **Qiannan Zhu**, Guanqun Bi, Fang Fang, Yi Liu, Qian Li. "How Does Knowledge Graph Embedding Extrapolate to Unseen Data: a Semantic Evidence Views". Accepted in the 36th AAAI Conference on Artificial Intelligence (**AAAI 2022**)
 * <b></b> Xiaofei Zhou, Lingfeng Niu, **Qiannan Zhu**, Xingquan Zhu, Ping Liu, Jianlong Tan, Li Guo. "Knowledge Graph Embedding by Double Limit Scoring Loss". Accepted in IEEE Transactions on Knowledge and Data Engineering(TKDE 2021).
 * <b></b> **Qiannan Zhu**, Xiaofei Zhou, Jia Wu, Jianlong Tan, Li Guo. "A Knowledge-Aware Reasoning Network for Recommendation". Accepted in the 34th AAAI Conference on Artificial Intelligence (AAAI 2020).
 * Yue Yuan, Xiaofei Zhou, Shirui Pan, **Qiannan Zhu**, Zeliang Song, Li Guo. "A Relation-Specific Attention Network for Joint Entity and Relation Extraction". Accepted in the 29th International Joint Conference on Artificial Intelligence (IJCAI 2020).
