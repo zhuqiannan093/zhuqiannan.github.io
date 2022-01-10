@@ -3,6 +3,13 @@ title: "Publications ([Google Scholar Profile](https://scholar.google.com.tw/cit
 permalink: /publications/
 author_profile: true
 ---
+## 2022
+* <b>A Neighborhood-Attention Fine-grained Entity Typing for Knowledge Graph Completion </b>. <br>
+Jianhuan Zhuo, <b>Qiannan Zhu*</b>, Yinliang Yue, Yuhong Zhao, Weisi Han<i>In Proceedings of the 15th  International Conference on Web Search and Data Mining (**WSDM 2022**)</i>.  <br>
+* <b>How Does Knowledge Graph Embedding Extrapolate to Unseen Data: a Semantic Evidence Views</b>. <br>
+Ren Li, Yanan Cao, <b>Qiannan Zhu</b>, Guanqun Bi, Fang Fang, Yi Liu, Qian Li <i>In Proceedings of the 36th AAAI Conference on Artificial Intelligence (**AAAI 2022**)</i>.  <br>
+
+
 ## 2021
 * <b>Knowledge Graph Embedding by Double Limit Scoring Loss</b>. <br>
 Xiaofei Zhou, Lingfeng Niu, <b>Qiannan Zhu</b>, Xingquan Zhu, Ping Liu, Jianlong Tan, Li Guo  <i>IEEE Transactions on Knowledge and Data Engineering(**TKDE 2021**)</i>.  <br>
