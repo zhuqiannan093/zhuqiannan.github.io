@@ -4,8 +4,14 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2022
+* <b>A Gain-Tuning Dynamic Negative Sampler for Recommendation </b>. <br>
+<b>Qiannan Zhu</b>, Haobo Zhang, Qing He, Zhicheng Dou <i> In Proceedings of the TheWebConf 2022 (**WWW 2022**) </i> <br>
+
+* <b> Learning Explicit User Interest Boundary for Recommendation </b>. <br> 
+Jianhuan Zhuo, <b>Qiannan Zhu</b>, Yinliang Yue, Yuhong Zhao <i> In Proceedings of the TheWebConf 2022 (**WWW 2022, Co first author**)</i> <br>
+
 * <b>A Neighborhood-Attention Fine-grained Entity Typing for Knowledge Graph Completion </b>. <br>
-Jianhuan Zhuo, <b>Qiannan Zhu*</b>, Yinliang Yue, Yuhong Zhao, Weisi Han<i>In Proceedings of the 15th  International Conference on Web Search and Data Mining (**WSDM 2022**)</i>.  <br>
+Jianhuan Zhuo, <b>Qiannan Zhu*</b>, Yinliang Yue, Yuhong Zhao, Weisi Han <i> In Proceedings of the 15th  International Conference on Web Search and Data Mining (**WSDM 2022**)</i>.  <br>
 * <b>How Does Knowledge Graph Embedding Extrapolate to Unseen Data: a Semantic Evidence Views</b>. <br>
 Ren Li, Yanan Cao, <b>Qiannan Zhu</b>, Guanqun Bi, Fang Fang, Yi Liu, Qian Li <i>In Proceedings of the 36th AAAI Conference on Artificial Intelligence (**AAAI 2022**)</i>.  <br>
 
