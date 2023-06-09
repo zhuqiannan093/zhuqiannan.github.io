@@ -3,6 +3,11 @@ title: "Publications ([Google Scholar Profile](https://scholar.google.com.tw/cit
 permalink: /publications/
 author_profile: true
 ---
+## 2023
+* <b>Cognition-aware Knowledge Graph Reasoning for Explainable Recommendation</b>. <br>
+* Qingyu Bing， <b>Qiannan Zhu</b>, Zhicheng Dou <i> In Proceedings of the ACM International Conference on Web Search and Data Mining 2023 (**WSDM 2023**) </i> <br>
+
+
 ## 2022
 * <b>A Gain-Tuning Dynamic Negative Sampler for Recommendation </b>. <br>
 <b>Qiannan Zhu</b>, Haobo Zhang, Qing He, Zhicheng Dou <i> In Proceedings of the TheWebConf 2022 (**WWW 2022**) </i> <br>
@@ -12,30 +17,30 @@ Jianhuan Zhuo, <b>Qiannan Zhu</b>, Yinliang Yue, Yuhong Zhao <i> In Proceedings 
 
 * <b>A Neighborhood-Attention Fine-grained Entity Typing for Knowledge Graph Completion </b>. <br>
 Jianhuan Zhuo, <b>Qiannan Zhu*</b>, Yinliang Yue, Yuhong Zhao, Weisi Han <i> In Proceedings of the 15th  International Conference on Web Search and Data Mining (**WSDM 2022**)</i>.  <br>
+
+
+* <b>Integrating Representation and Interaction for Context-aware Document Ranking </b>. <br>
+Haonan Chen, Zhicheng Dou*, <b>Qiannan Zhu*</b>, Xiaochen Zuo, Ji-Rong Wen <i> In ACM Trans. Inf. Syst. 2022 (**TOIS 2022**)</i>.  <br>
+
+* <b>A Category-aware Multi-interest Model for Personalized Product Search </b>. <br>
+Jiongnan Liu, Zhicheng Dou*, <b>Qiannan Zhu*</b>, Ji-Rong Wen <i> In Proceedings of the ACM Web Conference 2022 (**WWW 2022**）</i>.  <br>
+
+jiongnan Liu, Zhicheng Dou*, Qiannan Zhu, and Ji-Rong Wen. A Category-aware Multi-interest Model for Personalized Product Search. In Proceedings of the ACM Web Conference 2022 (WWW ’22)
+
+
 * <b>How Does Knowledge Graph Embedding Extrapolate to Unseen Data: a Semantic Evidence Views</b>. <br>
 Ren Li, Yanan Cao, <b>Qiannan Zhu</b>, Guanqun Bi, Fang Fang, Yi Liu, Qian Li <i>In Proceedings of the 36th AAAI Conference on Artificial Intelligence (**AAAI 2022**)</i>.  <br>
 
 ## 2021
 * <b>Knowledge Graph Embedding by Double Limit Scoring Loss</b>. <br>
 Xiaofei Zhou, Lingfeng Niu, <b>Qiannan Zhu</b>, Xingquan Zhu, Ping Liu, Jianlong Tan, Li Guo  <i>IEEE Transactions on Knowledge and Data Engineering(**TKDE 2021**)</i>.  <br>
-<!-- [[PDF]](https://superlj666.github.io/files/2019_MC_LRC_SSL.pdf)
-[[Code]](https://github.com/superlj666/Multi-Class-Learning-using-Unlabeled-Samples-Theory-and-Algorithm) -->
 
 ## 2020
 * <b>A knowledge-aware attentional reasoning network for recommendation</b>. <br>
 <b>Qiannan Zhu</b>, Xiaofei Zhou, Jia Wu, Jianlong Tan, Li Guo.<i>In Proceedings of the 34th AAAI Conference on Artificial Intelligence (**AAAI 2020**)</i>. <br>
-<!-- [[PDF]](https://superlj666.github.io/files/2019_dc_rf.pdf)
-[[Code]](https://github.com/superlj666/Distributed-Learning-with-Random-Features)
-[[PDF]](https://superlj666.github.io/files/2018_mc_lr.pdf)
-[[Code]](https://github.com/superlj666/Multi-Class-Learning-From-Theory-to-Algorithm)
-[[Poster]](https://superlj666.github.io/files/mc-lrc-nips-poster.pdf)
-[[Sildes]](https://superlj666.github.io/files/mc-lrc-nips-Sildess.pdf)
-[[3-minute video]](https://youtu.be/mE_RpgWuKK8) -->
-
 
 * <b>A Relation-Specific Attention Network for Joint Entity and Relation Extraction.</b>. <br>
 Yue Yuan, Xiaofei Zhou, Shirui Pan, <b>Qiannan Zhu</b>, Zeliang Song, Li Guo. <i>In Proceedings of the 29th International Joint Conference on Artificial Intelligence (**IJCAI 2020**)</i>. <br>
-
 
 
 ## 2019
