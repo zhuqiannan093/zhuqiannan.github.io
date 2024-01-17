@@ -4,8 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2023
-* <b>Cognition-aware Knowledge Graph Reasoning for Explainable Recommendation</b>. <br>
-* Qingyu Bing， <b>Qiannan Zhu</b>, Zhicheng Dou <i> In Proceedings of the ACM International Conference on Web Search and Data Mining 2023 (**WSDM 2023**) </i> <br>
+* <b>Cognition-aware Knowledge Graph Reasoning for Explainable Recommendation</b>. Qingyu Bing， <b>Qiannan Zhu</b>, Zhicheng Dou <i> In Proceedings of the ACM International Conference on Web Search and Data Mining 2023 (**WSDM 2023**) </i>
 
 
 ## 2022
