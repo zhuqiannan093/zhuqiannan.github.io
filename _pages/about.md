@@ -12,7 +12,7 @@ redirect_from:
 * I have received a Ph.D. student in the [Institute of Information Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/), under the supervision of Associate Prof. Xiaofei Zhou and Prof. Jianlong Tan. <br>
 
 # Research
-My research interests include recommendation system, information retrieval, knowledge representation, data mining and NLP.
+My research interests include recommendation system, information retrieval, knowledge representation, data mining and foundation models.
 
 # Publications
 
